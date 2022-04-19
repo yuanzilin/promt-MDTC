@@ -1,0 +1,2065 @@
+Ending epoch 1
+D Training Accuracy: 6.281009615384615%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+48.785714285714285	50.07142857142857	50.42857142857143	52.57142857142857	52.57142857142857	52.42857142857143	51.07142857142857	50.92857142857143	50.42857142857143	50.785714285714285	52.57142857142857	48.07142857142857	50.92857142857143	51.285714285714285	50.285714285714285	53.714285714285715
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 45.5%
+apparel: Accuracy on 200 samples: 63.0%
+baby: Accuracy on 200 samples: 62.5%
+books: Accuracy on 200 samples: 60.5%
+camera_photo: Accuracy on 200 samples: 52.5%
+dvd: Accuracy on 200 samples: 66.0%
+electronics: Accuracy on 200 samples: 54.0%
+health_personal_care: Accuracy on 200 samples: 47.0%
+imdb: Accuracy on 200 samples: 51.0%
+kitchen_housewares: Accuracy on 200 samples: 53.5%
+magazines: Accuracy on 200 samples: 73.5%
+music: Accuracy on 200 samples: 59.0%
+software: Accuracy on 200 samples: 51.5%
+sports_outdoors: Accuracy on 200 samples: 58.5%
+toys_games: Accuracy on 200 samples: 53.0%
+video: Accuracy on 200 samples: 57.99999999999999%
+Average validation accuracy: 0.568125
+Evaluating test sets:
+MR: Accuracy on 400 samples: 52.0%
+apparel: Accuracy on 400 samples: 63.74999999999999%
+baby: Accuracy on 400 samples: 64.75%
+books: Accuracy on 400 samples: 59.5%
+camera_photo: Accuracy on 400 samples: 53.25%
+dvd: Accuracy on 400 samples: 65.75%
+electronics: Accuracy on 400 samples: 53.0%
+health_personal_care: Accuracy on 400 samples: 53.25%
+imdb: Accuracy on 400 samples: 50.5%
+kitchen_housewares: Accuracy on 400 samples: 56.99999999999999%
+magazines: Accuracy on 400 samples: 67.25%
+music: Accuracy on 400 samples: 59.5%
+software: Accuracy on 400 samples: 47.25%
+sports_outdoors: Accuracy on 400 samples: 53.75%
+toys_games: Accuracy on 400 samples: 50.5%
+video: Accuracy on 400 samples: 51.24999999999999%
+Average test accuracy: 0.56390625
+New best average validation accuracy: 0.568125
+Ending epoch 2
+D Training Accuracy: 6.381282216494846%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+56.357142857142854	55.642857142857146	55.07142857142857	56.5	57.92857142857143	54.92857142857143	52.785714285714285	55.785714285714285	55.285714285714285	57.357142857142854	55.642857142857146	52.285714285714285	58.785714285714285	55.92857142857143	55.214285714285715	59.07142857142857
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 48.0%
+apparel: Accuracy on 200 samples: 75.0%
+baby: Accuracy on 200 samples: 73.0%
+books: Accuracy on 200 samples: 74.5%
+camera_photo: Accuracy on 200 samples: 67.5%
+dvd: Accuracy on 200 samples: 76.5%
+electronics: Accuracy on 200 samples: 62.0%
+health_personal_care: Accuracy on 200 samples: 76.0%
+imdb: Accuracy on 200 samples: 51.0%
+kitchen_housewares: Accuracy on 200 samples: 64.0%
+magazines: Accuracy on 200 samples: 74.0%
+music: Accuracy on 200 samples: 60.5%
+software: Accuracy on 200 samples: 69.5%
+sports_outdoors: Accuracy on 200 samples: 64.0%
+toys_games: Accuracy on 200 samples: 73.5%
+video: Accuracy on 200 samples: 69.5%
+Average validation accuracy: 0.6740625
+Evaluating test sets:
+MR: Accuracy on 400 samples: 52.25%
+apparel: Accuracy on 400 samples: 76.0%
+baby: Accuracy on 400 samples: 77.75%
+books: Accuracy on 400 samples: 74.5%
+camera_photo: Accuracy on 400 samples: 65.75%
+dvd: Accuracy on 400 samples: 77.5%
+electronics: Accuracy on 400 samples: 64.0%
+health_personal_care: Accuracy on 400 samples: 77.0%
+imdb: Accuracy on 400 samples: 52.5%
+kitchen_housewares: Accuracy on 400 samples: 63.5%
+magazines: Accuracy on 400 samples: 71.25%
+music: Accuracy on 400 samples: 58.75%
+software: Accuracy on 400 samples: 71.5%
+sports_outdoors: Accuracy on 400 samples: 60.5%
+toys_games: Accuracy on 400 samples: 76.5%
+video: Accuracy on 400 samples: 69.5%
+Average test accuracy: 0.6804687500000002
+New best average validation accuracy: 0.6740625
+Ending epoch 3
+D Training Accuracy: 6.284632731958763%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+65.85714285714286	71.85714285714286	67.5	68.35714285714286	70.42857142857143	67.28571428571429	70.64285714285714	68.78571428571429	66.92857142857143	70.07142857142857	70.14285714285714	67.0	70.57142857142857	70.21428571428571	71.57142857142857	70.35714285714286
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 75.5%
+apparel: Accuracy on 200 samples: 91.5%
+baby: Accuracy on 200 samples: 80.0%
+books: Accuracy on 200 samples: 80.5%
+camera_photo: Accuracy on 200 samples: 83.5%
+dvd: Accuracy on 200 samples: 81.5%
+electronics: Accuracy on 200 samples: 77.0%
+health_personal_care: Accuracy on 200 samples: 83.5%
+imdb: Accuracy on 200 samples: 83.0%
+kitchen_housewares: Accuracy on 200 samples: 81.5%
+magazines: Accuracy on 200 samples: 88.5%
+music: Accuracy on 200 samples: 75.0%
+software: Accuracy on 200 samples: 79.0%
+sports_outdoors: Accuracy on 200 samples: 83.5%
+toys_games: Accuracy on 200 samples: 82.0%
+video: Accuracy on 200 samples: 79.5%
+Average validation accuracy: 0.8156249999999999
+Evaluating test sets:
+MR: Accuracy on 400 samples: 72.0%
+apparel: Accuracy on 400 samples: 83.5%
+baby: Accuracy on 400 samples: 80.0%
+books: Accuracy on 400 samples: 79.75%
+camera_photo: Accuracy on 400 samples: 82.0%
+dvd: Accuracy on 400 samples: 82.0%
+electronics: Accuracy on 400 samples: 76.25%
+health_personal_care: Accuracy on 400 samples: 83.25%
+imdb: Accuracy on 400 samples: 80.0%
+kitchen_housewares: Accuracy on 400 samples: 79.75%
+magazines: Accuracy on 400 samples: 85.5%
+music: Accuracy on 400 samples: 74.75%
+software: Accuracy on 400 samples: 80.75%
+sports_outdoors: Accuracy on 400 samples: 83.5%
+toys_games: Accuracy on 400 samples: 85.0%
+video: Accuracy on 400 samples: 80.25%
+Average test accuracy: 0.80515625
+New best average validation accuracy: 0.8156249999999999
+Ending epoch 4
+D Training Accuracy: 6.330541237113402%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+75.14285714285714	81.35714285714286	78.14285714285714	77.64285714285714	79.35714285714286	79.21428571428571	79.28571428571429	78.64285714285714	75.71428571428571	79.92857142857143	81.35714285714286	76.42857142857143	79.78571428571429	80.71428571428571	81.42857142857143	81.35714285714286
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 76.0%
+apparel: Accuracy on 200 samples: 89.5%
+baby: Accuracy on 200 samples: 85.0%
+books: Accuracy on 200 samples: 81.5%
+camera_photo: Accuracy on 200 samples: 89.5%
+dvd: Accuracy on 200 samples: 84.5%
+electronics: Accuracy on 200 samples: 84.0%
+health_personal_care: Accuracy on 200 samples: 88.0%
+imdb: Accuracy on 200 samples: 85.5%
+kitchen_housewares: Accuracy on 200 samples: 88.0%
+magazines: Accuracy on 200 samples: 85.0%
+music: Accuracy on 200 samples: 78.0%
+software: Accuracy on 200 samples: 85.0%
+sports_outdoors: Accuracy on 200 samples: 84.0%
+toys_games: Accuracy on 200 samples: 83.5%
+video: Accuracy on 200 samples: 84.0%
+Average validation accuracy: 0.8443749999999999
+Evaluating test sets:
+MR: Accuracy on 400 samples: 75.25%
+apparel: Accuracy on 400 samples: 82.5%
+baby: Accuracy on 400 samples: 80.5%
+books: Accuracy on 400 samples: 81.25%
+camera_photo: Accuracy on 400 samples: 87.0%
+dvd: Accuracy on 400 samples: 85.5%
+electronics: Accuracy on 400 samples: 84.75%
+health_personal_care: Accuracy on 400 samples: 85.75%
+imdb: Accuracy on 400 samples: 82.0%
+kitchen_housewares: Accuracy on 400 samples: 84.75%
+magazines: Accuracy on 400 samples: 86.25%
+music: Accuracy on 400 samples: 79.0%
+software: Accuracy on 400 samples: 86.75%
+sports_outdoors: Accuracy on 400 samples: 82.0%
+toys_games: Accuracy on 400 samples: 87.75%
+video: Accuracy on 400 samples: 84.0%
+Average test accuracy: 0.834375
+New best average validation accuracy: 0.8443749999999999
+Ending epoch 5
+D Training Accuracy: 6.437661082474227%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+78.28571428571429	84.07142857142857	81.78571428571429	82.35714285714286	85.57142857142857	81.35714285714286	83.57142857142857	82.57142857142857	82.64285714285714	83.21428571428571	82.92857142857143	80.07142857142857	84.64285714285714	84.78571428571429	83.57142857142857	84.57142857142857
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 78.5%
+apparel: Accuracy on 200 samples: 91.5%
+baby: Accuracy on 200 samples: 88.5%
+books: Accuracy on 200 samples: 85.5%
+camera_photo: Accuracy on 200 samples: 90.0%
+dvd: Accuracy on 200 samples: 86.5%
+electronics: Accuracy on 200 samples: 84.5%
+health_personal_care: Accuracy on 200 samples: 89.0%
+imdb: Accuracy on 200 samples: 87.0%
+kitchen_housewares: Accuracy on 200 samples: 91.5%
+magazines: Accuracy on 200 samples: 91.0%
+music: Accuracy on 200 samples: 82.0%
+software: Accuracy on 200 samples: 86.5%
+sports_outdoors: Accuracy on 200 samples: 87.5%
+toys_games: Accuracy on 200 samples: 85.0%
+video: Accuracy on 200 samples: 84.0%
+Average validation accuracy: 0.8678125
+Evaluating test sets:
+MR: Accuracy on 400 samples: 76.75%
+apparel: Accuracy on 400 samples: 87.25%
+baby: Accuracy on 400 samples: 85.75%
+books: Accuracy on 400 samples: 87.25%
+camera_photo: Accuracy on 400 samples: 87.25%
+dvd: Accuracy on 400 samples: 87.75%
+electronics: Accuracy on 400 samples: 85.75%
+health_personal_care: Accuracy on 400 samples: 87.75%
+imdb: Accuracy on 400 samples: 86.75%
+kitchen_housewares: Accuracy on 400 samples: 87.25%
+magazines: Accuracy on 400 samples: 88.25%
+music: Accuracy on 400 samples: 84.0%
+software: Accuracy on 400 samples: 84.75%
+sports_outdoors: Accuracy on 400 samples: 87.75%
+toys_games: Accuracy on 400 samples: 88.0%
+video: Accuracy on 400 samples: 86.5%
+Average test accuracy: 0.86171875
+New best average validation accuracy: 0.8678125
+Ending epoch 6
+D Training Accuracy: 6.498067010309279%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+80.57142857142857	87.28571428571429	85.21428571428571	85.35714285714286	88.28571428571429	86.0	84.57142857142857	85.57142857142857	85.42857142857143	87.0	87.92857142857143	84.42857142857143	86.64285714285714	86.5	85.71428571428571	86.57142857142857
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 79.0%
+apparel: Accuracy on 200 samples: 91.5%
+baby: Accuracy on 200 samples: 87.5%
+books: Accuracy on 200 samples: 87.0%
+camera_photo: Accuracy on 200 samples: 91.0%
+dvd: Accuracy on 200 samples: 87.0%
+electronics: Accuracy on 200 samples: 86.0%
+health_personal_care: Accuracy on 200 samples: 89.0%
+imdb: Accuracy on 200 samples: 89.0%
+kitchen_housewares: Accuracy on 200 samples: 92.0%
+magazines: Accuracy on 200 samples: 91.0%
+music: Accuracy on 200 samples: 81.5%
+software: Accuracy on 200 samples: 88.0%
+sports_outdoors: Accuracy on 200 samples: 86.5%
+toys_games: Accuracy on 200 samples: 87.0%
+video: Accuracy on 200 samples: 84.5%
+Average validation accuracy: 0.8734375000000001
+Evaluating test sets:
+MR: Accuracy on 400 samples: 76.0%
+apparel: Accuracy on 400 samples: 88.5%
+baby: Accuracy on 400 samples: 88.25%
+books: Accuracy on 400 samples: 88.75%
+camera_photo: Accuracy on 400 samples: 87.75%
+dvd: Accuracy on 400 samples: 88.0%
+electronics: Accuracy on 400 samples: 85.5%
+health_personal_care: Accuracy on 400 samples: 89.25%
+imdb: Accuracy on 400 samples: 88.0%
+kitchen_housewares: Accuracy on 400 samples: 88.5%
+magazines: Accuracy on 400 samples: 89.25%
+music: Accuracy on 400 samples: 84.25%
+software: Accuracy on 400 samples: 87.75%
+sports_outdoors: Accuracy on 400 samples: 88.75%
+toys_games: Accuracy on 400 samples: 89.5%
+video: Accuracy on 400 samples: 88.5%
+Average test accuracy: 0.8728124999999999
+New best average validation accuracy: 0.8734375000000001
+Ending epoch 7
+D Training Accuracy: 6.611630154639175%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+83.78571428571429	89.07142857142857	85.57142857142857	89.07142857142857	88.57142857142857	87.5	87.42857142857143	86.71428571428571	88.85714285714286	87.85714285714286	89.92857142857143	84.57142857142857	89.5	87.78571428571429	88.64285714285714	91.07142857142857
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 78.0%
+apparel: Accuracy on 200 samples: 93.0%
+baby: Accuracy on 200 samples: 89.0%
+books: Accuracy on 200 samples: 86.5%
+camera_photo: Accuracy on 200 samples: 91.5%
+dvd: Accuracy on 200 samples: 88.0%
+electronics: Accuracy on 200 samples: 89.0%
+health_personal_care: Accuracy on 200 samples: 87.5%
+imdb: Accuracy on 200 samples: 89.5%
+kitchen_housewares: Accuracy on 200 samples: 93.0%
+magazines: Accuracy on 200 samples: 92.5%
+music: Accuracy on 200 samples: 80.5%
+software: Accuracy on 200 samples: 88.5%
+sports_outdoors: Accuracy on 200 samples: 88.0%
+toys_games: Accuracy on 200 samples: 86.0%
+video: Accuracy on 200 samples: 85.5%
+Average validation accuracy: 0.87875
+Evaluating test sets:
+MR: Accuracy on 400 samples: 75.0%
+apparel: Accuracy on 400 samples: 88.0%
+baby: Accuracy on 400 samples: 89.0%
+books: Accuracy on 400 samples: 88.25%
+camera_photo: Accuracy on 400 samples: 88.0%
+dvd: Accuracy on 400 samples: 89.25%
+electronics: Accuracy on 400 samples: 85.75%
+health_personal_care: Accuracy on 400 samples: 88.5%
+imdb: Accuracy on 400 samples: 87.75%
+kitchen_housewares: Accuracy on 400 samples: 89.0%
+magazines: Accuracy on 400 samples: 89.5%
+music: Accuracy on 400 samples: 83.5%
+software: Accuracy on 400 samples: 87.5%
+sports_outdoors: Accuracy on 400 samples: 89.0%
+toys_games: Accuracy on 400 samples: 90.0%
+video: Accuracy on 400 samples: 88.25%
+Average test accuracy: 0.87265625
+New best average validation accuracy: 0.87875
+Ending epoch 8
+D Training Accuracy: 6.849226804123711%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+85.28571428571429	89.28571428571429	88.71428571428571	90.64285714285714	91.57142857142857	89.85714285714286	88.07142857142857	89.64285714285714	89.14285714285714	90.5	89.85714285714286	88.07142857142857	90.78571428571429	90.92857142857143	90.0	92.35714285714286
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 79.5%
+apparel: Accuracy on 200 samples: 90.5%
+baby: Accuracy on 200 samples: 88.5%
+books: Accuracy on 200 samples: 87.0%
+camera_photo: Accuracy on 200 samples: 93.0%
+dvd: Accuracy on 200 samples: 88.5%
+electronics: Accuracy on 200 samples: 90.5%
+health_personal_care: Accuracy on 200 samples: 88.0%
+imdb: Accuracy on 200 samples: 88.5%
+kitchen_housewares: Accuracy on 200 samples: 93.0%
+magazines: Accuracy on 200 samples: 93.5%
+music: Accuracy on 200 samples: 83.5%
+software: Accuracy on 200 samples: 89.5%
+sports_outdoors: Accuracy on 200 samples: 88.5%
+toys_games: Accuracy on 200 samples: 85.5%
+video: Accuracy on 200 samples: 86.0%
+Average validation accuracy: 0.8834375
+Evaluating test sets:
+MR: Accuracy on 400 samples: 75.0%
+apparel: Accuracy on 400 samples: 86.5%
+baby: Accuracy on 400 samples: 89.75%
+books: Accuracy on 400 samples: 88.25%
+camera_photo: Accuracy on 400 samples: 89.75%
+dvd: Accuracy on 400 samples: 89.25%
+electronics: Accuracy on 400 samples: 88.25%
+health_personal_care: Accuracy on 400 samples: 90.25%
+imdb: Accuracy on 400 samples: 89.0%
+kitchen_housewares: Accuracy on 400 samples: 88.5%
+magazines: Accuracy on 400 samples: 90.75%
+music: Accuracy on 400 samples: 83.5%
+software: Accuracy on 400 samples: 91.5%
+sports_outdoors: Accuracy on 400 samples: 88.5%
+toys_games: Accuracy on 400 samples: 91.0%
+video: Accuracy on 400 samples: 87.75%
+Average test accuracy: 0.8796875
+New best average validation accuracy: 0.8834375
+Ending epoch 9
+D Training Accuracy: 7.050579896907217%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+89.78571428571429	92.35714285714286	89.57142857142857	90.92857142857143	92.28571428571429	90.57142857142857	89.42857142857143	90.71428571428571	92.0	91.35714285714286	93.78571428571429	91.5	90.42857142857143	90.14285714285714	90.42857142857143	91.64285714285714
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 75.0%
+apparel: Accuracy on 200 samples: 91.5%
+baby: Accuracy on 200 samples: 89.5%
+books: Accuracy on 200 samples: 89.0%
+camera_photo: Accuracy on 200 samples: 91.5%
+dvd: Accuracy on 200 samples: 89.0%
+electronics: Accuracy on 200 samples: 88.5%
+health_personal_care: Accuracy on 200 samples: 87.5%
+imdb: Accuracy on 200 samples: 89.0%
+kitchen_housewares: Accuracy on 200 samples: 93.0%
+magazines: Accuracy on 200 samples: 92.5%
+music: Accuracy on 200 samples: 84.5%
+software: Accuracy on 200 samples: 90.0%
+sports_outdoors: Accuracy on 200 samples: 88.0%
+toys_games: Accuracy on 200 samples: 86.0%
+video: Accuracy on 200 samples: 85.0%
+Average validation accuracy: 0.8809375
+Evaluating test sets:
+MR: Accuracy on 400 samples: 76.25%
+apparel: Accuracy on 400 samples: 87.75%
+baby: Accuracy on 400 samples: 90.25%
+books: Accuracy on 400 samples: 88.75%
+camera_photo: Accuracy on 400 samples: 89.5%
+dvd: Accuracy on 400 samples: 88.25%
+electronics: Accuracy on 400 samples: 84.75%
+health_personal_care: Accuracy on 400 samples: 90.5%
+imdb: Accuracy on 400 samples: 88.5%
+kitchen_housewares: Accuracy on 400 samples: 89.75%
+magazines: Accuracy on 400 samples: 91.5%
+music: Accuracy on 400 samples: 85.75%
+software: Accuracy on 400 samples: 88.0%
+sports_outdoors: Accuracy on 400 samples: 89.25%
+toys_games: Accuracy on 400 samples: 90.25%
+video: Accuracy on 400 samples: 88.75%
+Average test accuracy: 0.8798437499999999
+Ending epoch 10
+D Training Accuracy: 7.430734536082475%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+90.42857142857143	92.21428571428571	90.85714285714286	92.14285714285714	93.71428571428571	93.92857142857143	91.78571428571429	90.57142857142857	93.57142857142857	93.14285714285714	94.42857142857143	92.28571428571429	92.57142857142857	91.57142857142857	89.57142857142857	93.14285714285714
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 77.0%
+apparel: Accuracy on 200 samples: 92.0%
+baby: Accuracy on 200 samples: 90.0%
+books: Accuracy on 200 samples: 86.0%
+camera_photo: Accuracy on 200 samples: 91.5%
+dvd: Accuracy on 200 samples: 88.0%
+electronics: Accuracy on 200 samples: 91.5%
+health_personal_care: Accuracy on 200 samples: 87.5%
+imdb: Accuracy on 200 samples: 89.0%
+kitchen_housewares: Accuracy on 200 samples: 92.5%
+magazines: Accuracy on 200 samples: 94.5%
+music: Accuracy on 200 samples: 84.0%
+software: Accuracy on 200 samples: 89.0%
+sports_outdoors: Accuracy on 200 samples: 88.0%
+toys_games: Accuracy on 200 samples: 87.5%
+video: Accuracy on 200 samples: 85.5%
+Average validation accuracy: 0.8834375000000001
+Evaluating test sets:
+MR: Accuracy on 400 samples: 73.25%
+apparel: Accuracy on 400 samples: 88.5%
+baby: Accuracy on 400 samples: 91.25%
+books: Accuracy on 400 samples: 87.75%
+camera_photo: Accuracy on 400 samples: 90.0%
+dvd: Accuracy on 400 samples: 88.75%
+electronics: Accuracy on 400 samples: 87.75%
+health_personal_care: Accuracy on 400 samples: 89.5%
+imdb: Accuracy on 400 samples: 87.75%
+kitchen_housewares: Accuracy on 400 samples: 90.0%
+magazines: Accuracy on 400 samples: 92.25%
+music: Accuracy on 400 samples: 86.25%
+software: Accuracy on 400 samples: 88.25%
+sports_outdoors: Accuracy on 400 samples: 90.0%
+toys_games: Accuracy on 400 samples: 90.5%
+video: Accuracy on 400 samples: 89.5%
+Average test accuracy: 0.8820312499999999
+New best average validation accuracy: 0.8834375000000001
+Ending epoch 11
+D Training Accuracy: 7.766591494845361%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+92.5	94.0	93.85714285714286	93.92857142857143	94.35714285714286	93.07142857142857	91.92857142857143	93.92857142857143	94.21428571428571	92.28571428571429	95.57142857142857	90.85714285714286	94.71428571428571	92.78571428571429	93.14285714285714	94.78571428571429
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 75.5%
+apparel: Accuracy on 200 samples: 91.5%
+baby: Accuracy on 200 samples: 90.0%
+books: Accuracy on 200 samples: 87.5%
+camera_photo: Accuracy on 200 samples: 92.5%
+dvd: Accuracy on 200 samples: 88.5%
+electronics: Accuracy on 200 samples: 91.0%
+health_personal_care: Accuracy on 200 samples: 88.5%
+imdb: Accuracy on 200 samples: 90.0%
+kitchen_housewares: Accuracy on 200 samples: 92.0%
+magazines: Accuracy on 200 samples: 93.5%
+music: Accuracy on 200 samples: 84.5%
+software: Accuracy on 200 samples: 90.0%
+sports_outdoors: Accuracy on 200 samples: 88.0%
+toys_games: Accuracy on 200 samples: 84.0%
+video: Accuracy on 200 samples: 86.0%
+Average validation accuracy: 0.8831250000000002
+Evaluating test sets:
+MR: Accuracy on 400 samples: 73.75%
+apparel: Accuracy on 400 samples: 87.75%
+baby: Accuracy on 400 samples: 91.0%
+books: Accuracy on 400 samples: 87.5%
+camera_photo: Accuracy on 400 samples: 90.75%
+dvd: Accuracy on 400 samples: 88.75%
+electronics: Accuracy on 400 samples: 87.5%
+health_personal_care: Accuracy on 400 samples: 91.0%
+imdb: Accuracy on 400 samples: 87.75%
+kitchen_housewares: Accuracy on 400 samples: 89.0%
+magazines: Accuracy on 400 samples: 92.25%
+music: Accuracy on 400 samples: 85.5%
+software: Accuracy on 400 samples: 88.25%
+sports_outdoors: Accuracy on 400 samples: 88.5%
+toys_games: Accuracy on 400 samples: 89.75%
+video: Accuracy on 400 samples: 89.25%
+Average test accuracy: 0.8801562500000001
+Ending epoch 12
+D Training Accuracy: 8.795908505154639%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+92.64285714285714	96.57142857142857	92.78571428571429	94.78571428571429	94.35714285714286	94.57142857142857	94.0	94.42857142857143	93.78571428571429	94.5	94.64285714285714	94.78571428571429	95.57142857142857	93.21428571428571	93.28571428571429	96.42857142857143
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 77.0%
+apparel: Accuracy on 200 samples: 92.5%
+baby: Accuracy on 200 samples: 90.0%
+books: Accuracy on 200 samples: 87.5%
+camera_photo: Accuracy on 200 samples: 90.5%
+dvd: Accuracy on 200 samples: 89.0%
+electronics: Accuracy on 200 samples: 87.0%
+health_personal_care: Accuracy on 200 samples: 86.5%
+imdb: Accuracy on 200 samples: 85.0%
+kitchen_housewares: Accuracy on 200 samples: 90.0%
+magazines: Accuracy on 200 samples: 94.0%
+music: Accuracy on 200 samples: 84.5%
+software: Accuracy on 200 samples: 90.5%
+sports_outdoors: Accuracy on 200 samples: 87.0%
+toys_games: Accuracy on 200 samples: 86.5%
+video: Accuracy on 200 samples: 84.0%
+Average validation accuracy: 0.8759374999999999
+Evaluating test sets:
+MR: Accuracy on 400 samples: 72.0%
+apparel: Accuracy on 400 samples: 88.25%
+baby: Accuracy on 400 samples: 90.75%
+books: Accuracy on 400 samples: 87.25%
+camera_photo: Accuracy on 400 samples: 88.75%
+dvd: Accuracy on 400 samples: 87.25%
+electronics: Accuracy on 400 samples: 84.5%
+health_personal_care: Accuracy on 400 samples: 89.5%
+imdb: Accuracy on 400 samples: 86.75%
+kitchen_housewares: Accuracy on 400 samples: 88.75%
+magazines: Accuracy on 400 samples: 91.5%
+music: Accuracy on 400 samples: 87.0%
+software: Accuracy on 400 samples: 87.0%
+sports_outdoors: Accuracy on 400 samples: 88.25%
+toys_games: Accuracy on 400 samples: 90.25%
+video: Accuracy on 400 samples: 88.5%
+Average test accuracy: 0.8726562499999998
+Ending epoch 13
+D Training Accuracy: 10.25853737113402%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+93.78571428571429	94.71428571428571	95.28571428571429	96.35714285714286	94.07142857142857	96.28571428571429	93.64285714285714	95.14285714285714	95.21428571428571	94.28571428571429	96.5	95.5	95.5	95.0	94.64285714285714	97.64285714285714
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 74.0%
+apparel: Accuracy on 200 samples: 92.0%
+baby: Accuracy on 200 samples: 89.5%
+books: Accuracy on 200 samples: 88.5%
+camera_photo: Accuracy on 200 samples: 94.5%
+dvd: Accuracy on 200 samples: 88.0%
+electronics: Accuracy on 200 samples: 90.0%
+health_personal_care: Accuracy on 200 samples: 89.5%
+imdb: Accuracy on 200 samples: 88.5%
+kitchen_housewares: Accuracy on 200 samples: 91.5%
+magazines: Accuracy on 200 samples: 94.0%
+music: Accuracy on 200 samples: 84.0%
+software: Accuracy on 200 samples: 92.0%
+sports_outdoors: Accuracy on 200 samples: 89.0%
+toys_games: Accuracy on 200 samples: 87.0%
+video: Accuracy on 200 samples: 87.0%
+Average validation accuracy: 0.8868749999999999
+Evaluating test sets:
+MR: Accuracy on 400 samples: 74.0%
+apparel: Accuracy on 400 samples: 88.0%
+baby: Accuracy on 400 samples: 91.25%
+books: Accuracy on 400 samples: 88.5%
+camera_photo: Accuracy on 400 samples: 91.0%
+dvd: Accuracy on 400 samples: 89.75%
+electronics: Accuracy on 400 samples: 86.75%
+health_personal_care: Accuracy on 400 samples: 90.0%
+imdb: Accuracy on 400 samples: 89.0%
+kitchen_housewares: Accuracy on 400 samples: 90.0%
+magazines: Accuracy on 400 samples: 92.0%
+music: Accuracy on 400 samples: 85.75%
+software: Accuracy on 400 samples: 89.0%
+sports_outdoors: Accuracy on 400 samples: 88.75%
+toys_games: Accuracy on 400 samples: 91.0%
+video: Accuracy on 400 samples: 88.75%
+Average test accuracy: 0.8834375
+New best average validation accuracy: 0.8868749999999999
+Ending epoch 14
+D Training Accuracy: 11.224226804123711%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+94.92857142857143	95.35714285714286	94.92857142857143	95.35714285714286	95.21428571428571	96.28571428571429	95.92857142857143	95.0	95.5	96.0	96.42857142857143	95.14285714285714	96.14285714285714	95.35714285714286	95.14285714285714	96.57142857142857
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 76.0%
+apparel: Accuracy on 200 samples: 92.0%
+baby: Accuracy on 200 samples: 89.0%
+books: Accuracy on 200 samples: 87.5%
+camera_photo: Accuracy on 200 samples: 95.0%
+dvd: Accuracy on 200 samples: 87.0%
+electronics: Accuracy on 200 samples: 90.0%
+health_personal_care: Accuracy on 200 samples: 89.0%
+imdb: Accuracy on 200 samples: 88.5%
+kitchen_housewares: Accuracy on 200 samples: 92.0%
+magazines: Accuracy on 200 samples: 93.5%
+music: Accuracy on 200 samples: 85.0%
+software: Accuracy on 200 samples: 91.5%
+sports_outdoors: Accuracy on 200 samples: 89.5%
+toys_games: Accuracy on 200 samples: 85.0%
+video: Accuracy on 200 samples: 85.5%
+Average validation accuracy: 0.8850000000000001
+Evaluating test sets:
+MR: Accuracy on 400 samples: 73.0%
+apparel: Accuracy on 400 samples: 88.0%
+baby: Accuracy on 400 samples: 89.5%
+books: Accuracy on 400 samples: 87.75%
+camera_photo: Accuracy on 400 samples: 90.25%
+dvd: Accuracy on 400 samples: 88.25%
+electronics: Accuracy on 400 samples: 87.0%
+health_personal_care: Accuracy on 400 samples: 90.5%
+imdb: Accuracy on 400 samples: 87.5%
+kitchen_housewares: Accuracy on 400 samples: 89.0%
+magazines: Accuracy on 400 samples: 92.0%
+music: Accuracy on 400 samples: 85.5%
+software: Accuracy on 400 samples: 88.75%
+sports_outdoors: Accuracy on 400 samples: 88.25%
+toys_games: Accuracy on 400 samples: 90.5%
+video: Accuracy on 400 samples: 89.5%
+Average test accuracy: 0.87828125
+Ending epoch 15
+D Training Accuracy: 11.957957474226804%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+95.28571428571429	95.92857142857143	97.0	97.14285714285714	96.0	96.28571428571429	96.0	95.42857142857143	96.28571428571429	95.71428571428571	97.57142857142857	95.0	96.35714285714286	95.85714285714286	96.21428571428571	96.5
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 76.0%
+apparel: Accuracy on 200 samples: 91.5%
+baby: Accuracy on 200 samples: 90.0%
+books: Accuracy on 200 samples: 87.5%
+camera_photo: Accuracy on 200 samples: 93.0%
+dvd: Accuracy on 200 samples: 88.5%
+electronics: Accuracy on 200 samples: 92.0%
+health_personal_care: Accuracy on 200 samples: 87.0%
+imdb: Accuracy on 200 samples: 88.0%
+kitchen_housewares: Accuracy on 200 samples: 92.0%
+magazines: Accuracy on 200 samples: 93.5%
+music: Accuracy on 200 samples: 85.5%
+software: Accuracy on 200 samples: 92.0%
+sports_outdoors: Accuracy on 200 samples: 88.0%
+toys_games: Accuracy on 200 samples: 85.5%
+video: Accuracy on 200 samples: 86.5%
+Average validation accuracy: 0.8853125000000002
+Evaluating test sets:
+MR: Accuracy on 400 samples: 75.0%
+apparel: Accuracy on 400 samples: 86.75%
+baby: Accuracy on 400 samples: 91.0%
+books: Accuracy on 400 samples: 87.75%
+camera_photo: Accuracy on 400 samples: 90.25%
+dvd: Accuracy on 400 samples: 89.25%
+electronics: Accuracy on 400 samples: 87.75%
+health_personal_care: Accuracy on 400 samples: 89.25%
+imdb: Accuracy on 400 samples: 87.75%
+kitchen_housewares: Accuracy on 400 samples: 90.25%
+magazines: Accuracy on 400 samples: 93.25%
+music: Accuracy on 400 samples: 85.25%
+software: Accuracy on 400 samples: 89.5%
+sports_outdoors: Accuracy on 400 samples: 88.5%
+toys_games: Accuracy on 400 samples: 90.0%
+video: Accuracy on 400 samples: 88.0%
+Average test accuracy: 0.8809375
+Ending epoch 16
+D Training Accuracy: 12.447648195876289%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+95.14285714285714	95.57142857142857	96.85714285714286	95.5	96.14285714285714	95.64285714285714	95.0	96.21428571428571	96.0	97.0	98.0	95.5	96.71428571428571	96.5	95.07142857142857	97.0
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 75.5%
+apparel: Accuracy on 200 samples: 88.0%
+baby: Accuracy on 200 samples: 89.0%
+books: Accuracy on 200 samples: 86.5%
+camera_photo: Accuracy on 200 samples: 92.0%
+dvd: Accuracy on 200 samples: 86.5%
+electronics: Accuracy on 200 samples: 92.0%
+health_personal_care: Accuracy on 200 samples: 87.5%
+imdb: Accuracy on 200 samples: 88.0%
+kitchen_housewares: Accuracy on 200 samples: 91.0%
+magazines: Accuracy on 200 samples: 93.5%
+music: Accuracy on 200 samples: 82.5%
+software: Accuracy on 200 samples: 90.0%
+sports_outdoors: Accuracy on 200 samples: 87.0%
+toys_games: Accuracy on 200 samples: 84.5%
+video: Accuracy on 200 samples: 86.5%
+Average validation accuracy: 0.875
+Evaluating test sets:
+MR: Accuracy on 400 samples: 75.5%
+apparel: Accuracy on 400 samples: 85.25%
+baby: Accuracy on 400 samples: 88.25%
+books: Accuracy on 400 samples: 87.5%
+camera_photo: Accuracy on 400 samples: 90.25%
+dvd: Accuracy on 400 samples: 87.25%
+electronics: Accuracy on 400 samples: 87.75%
+health_personal_care: Accuracy on 400 samples: 87.5%
+imdb: Accuracy on 400 samples: 88.75%
+kitchen_housewares: Accuracy on 400 samples: 89.0%
+magazines: Accuracy on 400 samples: 92.75%
+music: Accuracy on 400 samples: 83.0%
+software: Accuracy on 400 samples: 90.5%
+sports_outdoors: Accuracy on 400 samples: 86.25%
+toys_games: Accuracy on 400 samples: 89.0%
+video: Accuracy on 400 samples: 88.75%
+Average test accuracy: 0.87328125
+Ending epoch 17
+D Training Accuracy: 12.624838917525773%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+96.07142857142857	96.35714285714286	96.78571428571429	96.07142857142857	97.0	97.42857142857143	96.0	95.92857142857143	96.42857142857143	96.5	97.28571428571429	96.35714285714286	96.71428571428571	97.0	96.71428571428571	96.28571428571429
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 77.0%
+apparel: Accuracy on 200 samples: 90.0%
+baby: Accuracy on 200 samples: 89.5%
+books: Accuracy on 200 samples: 88.5%
+camera_photo: Accuracy on 200 samples: 93.5%
+dvd: Accuracy on 200 samples: 88.5%
+electronics: Accuracy on 200 samples: 91.5%
+health_personal_care: Accuracy on 200 samples: 88.5%
+imdb: Accuracy on 200 samples: 87.5%
+kitchen_housewares: Accuracy on 200 samples: 92.5%
+magazines: Accuracy on 200 samples: 93.5%
+music: Accuracy on 200 samples: 86.0%
+software: Accuracy on 200 samples: 91.0%
+sports_outdoors: Accuracy on 200 samples: 87.5%
+toys_games: Accuracy on 200 samples: 85.5%
+video: Accuracy on 200 samples: 86.0%
+Average validation accuracy: 0.8853125
+Evaluating test sets:
+MR: Accuracy on 400 samples: 76.0%
+apparel: Accuracy on 400 samples: 87.0%
+baby: Accuracy on 400 samples: 90.25%
+books: Accuracy on 400 samples: 87.25%
+camera_photo: Accuracy on 400 samples: 91.25%
+dvd: Accuracy on 400 samples: 88.5%
+electronics: Accuracy on 400 samples: 90.0%
+health_personal_care: Accuracy on 400 samples: 89.25%
+imdb: Accuracy on 400 samples: 87.5%
+kitchen_housewares: Accuracy on 400 samples: 89.0%
+magazines: Accuracy on 400 samples: 92.5%
+music: Accuracy on 400 samples: 85.5%
+software: Accuracy on 400 samples: 90.5%
+sports_outdoors: Accuracy on 400 samples: 87.25%
+toys_games: Accuracy on 400 samples: 89.75%
+video: Accuracy on 400 samples: 88.5%
+Average test accuracy: 0.88125
+Ending epoch 18
+D Training Accuracy: 12.693298969072165%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+96.85714285714286	97.35714285714286	95.28571428571429	96.35714285714286	96.57142857142857	96.71428571428571	96.07142857142857	96.78571428571429	96.07142857142857	97.5	97.64285714285714	96.71428571428571	96.21428571428571	97.64285714285714	96.28571428571429	97.07142857142857
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 76.5%
+apparel: Accuracy on 200 samples: 92.0%
+baby: Accuracy on 200 samples: 89.5%
+books: Accuracy on 200 samples: 88.5%
+camera_photo: Accuracy on 200 samples: 94.5%
+dvd: Accuracy on 200 samples: 88.5%
+electronics: Accuracy on 200 samples: 90.0%
+health_personal_care: Accuracy on 200 samples: 88.5%
+imdb: Accuracy on 200 samples: 87.5%
+kitchen_housewares: Accuracy on 200 samples: 92.0%
+magazines: Accuracy on 200 samples: 94.0%
+music: Accuracy on 200 samples: 85.0%
+software: Accuracy on 200 samples: 92.0%
+sports_outdoors: Accuracy on 200 samples: 88.0%
+toys_games: Accuracy on 200 samples: 85.0%
+video: Accuracy on 200 samples: 86.0%
+Average validation accuracy: 0.8859374999999999
+Evaluating test sets:
+MR: Accuracy on 400 samples: 74.25%
+apparel: Accuracy on 400 samples: 87.75%
+baby: Accuracy on 400 samples: 91.0%
+books: Accuracy on 400 samples: 87.25%
+camera_photo: Accuracy on 400 samples: 91.25%
+dvd: Accuracy on 400 samples: 88.5%
+electronics: Accuracy on 400 samples: 87.0%
+health_personal_care: Accuracy on 400 samples: 89.0%
+imdb: Accuracy on 400 samples: 87.25%
+kitchen_housewares: Accuracy on 400 samples: 89.5%
+magazines: Accuracy on 400 samples: 91.5%
+music: Accuracy on 400 samples: 85.25%
+software: Accuracy on 400 samples: 89.5%
+sports_outdoors: Accuracy on 400 samples: 88.0%
+toys_games: Accuracy on 400 samples: 91.0%
+video: Accuracy on 400 samples: 89.25%
+Average test accuracy: 0.8795312499999999
+Ending epoch 19
+D Training Accuracy: 12.525773195876289%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+96.5	97.64285714285714	96.35714285714286	97.21428571428571	96.57142857142857	97.57142857142857	96.0	96.21428571428571	97.14285714285714	97.57142857142857	97.5	96.92857142857143	96.57142857142857	97.78571428571429	97.28571428571429	97.42857142857143
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 76.0%
+apparel: Accuracy on 200 samples: 91.5%
+baby: Accuracy on 200 samples: 89.5%
+books: Accuracy on 200 samples: 89.5%
+camera_photo: Accuracy on 200 samples: 94.0%
+dvd: Accuracy on 200 samples: 89.0%
+electronics: Accuracy on 200 samples: 90.0%
+health_personal_care: Accuracy on 200 samples: 87.5%
+imdb: Accuracy on 200 samples: 89.5%
+kitchen_housewares: Accuracy on 200 samples: 91.0%
+magazines: Accuracy on 200 samples: 93.5%
+music: Accuracy on 200 samples: 86.0%
+software: Accuracy on 200 samples: 91.5%
+sports_outdoors: Accuracy on 200 samples: 89.5%
+toys_games: Accuracy on 200 samples: 86.5%
+video: Accuracy on 200 samples: 85.5%
+Average validation accuracy: 0.8875000000000001
+Evaluating test sets:
+MR: Accuracy on 400 samples: 75.25%
+apparel: Accuracy on 400 samples: 87.75%
+baby: Accuracy on 400 samples: 91.25%
+books: Accuracy on 400 samples: 87.5%
+camera_photo: Accuracy on 400 samples: 90.5%
+dvd: Accuracy on 400 samples: 88.75%
+electronics: Accuracy on 400 samples: 89.25%
+health_personal_care: Accuracy on 400 samples: 90.25%
+imdb: Accuracy on 400 samples: 86.25%
+kitchen_housewares: Accuracy on 400 samples: 89.5%
+magazines: Accuracy on 400 samples: 92.5%
+music: Accuracy on 400 samples: 85.5%
+software: Accuracy on 400 samples: 90.25%
+sports_outdoors: Accuracy on 400 samples: 90.0%
+toys_games: Accuracy on 400 samples: 91.25%
+video: Accuracy on 400 samples: 88.25%
+Average test accuracy: 0.88375
+New best average validation accuracy: 0.8875000000000001
+Ending epoch 20
+D Training Accuracy: 12.318782216494846%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+96.92857142857143	96.92857142857143	97.85714285714286	96.64285714285714	97.07142857142857	96.78571428571429	96.85714285714286	96.64285714285714	97.42857142857143	97.5	98.14285714285714	97.07142857142857	97.35714285714286	97.5	96.71428571428571	96.92857142857143
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 75.5%
+apparel: Accuracy on 200 samples: 92.5%
+baby: Accuracy on 200 samples: 89.5%
+books: Accuracy on 200 samples: 88.5%
+camera_photo: Accuracy on 200 samples: 93.0%
+dvd: Accuracy on 200 samples: 88.5%
+electronics: Accuracy on 200 samples: 87.5%
+health_personal_care: Accuracy on 200 samples: 90.0%
+imdb: Accuracy on 200 samples: 88.0%
+kitchen_housewares: Accuracy on 200 samples: 92.0%
+magazines: Accuracy on 200 samples: 94.5%
+music: Accuracy on 200 samples: 85.0%
+software: Accuracy on 200 samples: 92.5%
+sports_outdoors: Accuracy on 200 samples: 89.0%
+toys_games: Accuracy on 200 samples: 88.5%
+video: Accuracy on 200 samples: 85.0%
+Average validation accuracy: 0.8871875
+Evaluating test sets:
+MR: Accuracy on 400 samples: 73.0%
+apparel: Accuracy on 400 samples: 88.25%
+baby: Accuracy on 400 samples: 90.0%
+books: Accuracy on 400 samples: 87.0%
+camera_photo: Accuracy on 400 samples: 90.75%
+dvd: Accuracy on 400 samples: 88.5%
+electronics: Accuracy on 400 samples: 86.0%
+health_personal_care: Accuracy on 400 samples: 89.75%
+imdb: Accuracy on 400 samples: 87.0%
+kitchen_housewares: Accuracy on 400 samples: 89.25%
+magazines: Accuracy on 400 samples: 92.5%
+music: Accuracy on 400 samples: 86.75%
+software: Accuracy on 400 samples: 88.5%
+sports_outdoors: Accuracy on 400 samples: 88.75%
+toys_games: Accuracy on 400 samples: 90.25%
+video: Accuracy on 400 samples: 89.5%
+Average test accuracy: 0.87859375
+Ending epoch 21
+D Training Accuracy: 11.954735824742269%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+96.5	97.71428571428571	98.28571428571429	97.42857142857143	97.14285714285714	98.0	97.07142857142857	96.92857142857143	97.92857142857143	96.35714285714286	98.07142857142857	97.07142857142857	97.64285714285714	97.07142857142857	97.35714285714286	98.57142857142857
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 77.0%
+apparel: Accuracy on 200 samples: 93.0%
+baby: Accuracy on 200 samples: 88.0%
+books: Accuracy on 200 samples: 85.5%
+camera_photo: Accuracy on 200 samples: 92.5%
+dvd: Accuracy on 200 samples: 87.0%
+electronics: Accuracy on 200 samples: 91.5%
+health_personal_care: Accuracy on 200 samples: 87.5%
+imdb: Accuracy on 200 samples: 87.5%
+kitchen_housewares: Accuracy on 200 samples: 91.0%
+magazines: Accuracy on 200 samples: 95.0%
+music: Accuracy on 200 samples: 83.5%
+software: Accuracy on 200 samples: 92.0%
+sports_outdoors: Accuracy on 200 samples: 89.0%
+toys_games: Accuracy on 200 samples: 85.0%
+video: Accuracy on 200 samples: 87.0%
+Average validation accuracy: 0.8825
+Evaluating test sets:
+MR: Accuracy on 400 samples: 75.5%
+apparel: Accuracy on 400 samples: 87.75%
+baby: Accuracy on 400 samples: 91.25%
+books: Accuracy on 400 samples: 86.5%
+camera_photo: Accuracy on 400 samples: 91.25%
+dvd: Accuracy on 400 samples: 88.25%
+electronics: Accuracy on 400 samples: 88.75%
+health_personal_care: Accuracy on 400 samples: 89.75%
+imdb: Accuracy on 400 samples: 86.0%
+kitchen_housewares: Accuracy on 400 samples: 90.0%
+magazines: Accuracy on 400 samples: 92.75%
+music: Accuracy on 400 samples: 85.25%
+software: Accuracy on 400 samples: 90.75%
+sports_outdoors: Accuracy on 400 samples: 88.0%
+toys_games: Accuracy on 400 samples: 90.75%
+video: Accuracy on 400 samples: 89.0%
+Average test accuracy: 0.8821875000000002
+Ending epoch 22
+D Training Accuracy: 11.775128865979381%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+96.42857142857143	97.0	98.14285714285714	98.28571428571429	97.21428571428571	96.78571428571429	97.42857142857143	97.35714285714286	97.92857142857143	97.64285714285714	97.78571428571429	98.28571428571429	97.57142857142857	98.71428571428571	97.42857142857143	98.14285714285714
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 77.0%
+apparel: Accuracy on 200 samples: 92.5%
+baby: Accuracy on 200 samples: 91.0%
+books: Accuracy on 200 samples: 87.0%
+camera_photo: Accuracy on 200 samples: 93.5%
+dvd: Accuracy on 200 samples: 88.5%
+electronics: Accuracy on 200 samples: 92.0%
+health_personal_care: Accuracy on 200 samples: 88.5%
+imdb: Accuracy on 200 samples: 88.0%
+kitchen_housewares: Accuracy on 200 samples: 90.5%
+magazines: Accuracy on 200 samples: 94.0%
+music: Accuracy on 200 samples: 85.0%
+software: Accuracy on 200 samples: 92.0%
+sports_outdoors: Accuracy on 200 samples: 88.0%
+toys_games: Accuracy on 200 samples: 85.5%
+video: Accuracy on 200 samples: 86.5%
+Average validation accuracy: 0.8871875
+Evaluating test sets:
+MR: Accuracy on 400 samples: 74.75%
+apparel: Accuracy on 400 samples: 88.5%
+baby: Accuracy on 400 samples: 90.75%
+books: Accuracy on 400 samples: 87.75%
+camera_photo: Accuracy on 400 samples: 90.5%
+dvd: Accuracy on 400 samples: 88.25%
+electronics: Accuracy on 400 samples: 89.25%
+health_personal_care: Accuracy on 400 samples: 89.5%
+imdb: Accuracy on 400 samples: 85.5%
+kitchen_housewares: Accuracy on 400 samples: 89.5%
+magazines: Accuracy on 400 samples: 92.75%
+music: Accuracy on 400 samples: 84.25%
+software: Accuracy on 400 samples: 89.75%
+sports_outdoors: Accuracy on 400 samples: 88.0%
+toys_games: Accuracy on 400 samples: 89.5%
+video: Accuracy on 400 samples: 88.75%
+Average test accuracy: 0.87953125
+Ending epoch 23
+D Training Accuracy: 11.02367912371134%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+96.57142857142857	97.92857142857143	97.42857142857143	98.35714285714286	98.0	98.28571428571429	97.0	96.71428571428571	98.0	97.28571428571429	98.64285714285714	98.35714285714286	98.0	97.71428571428571	97.42857142857143	98.57142857142857
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 74.5%
+apparel: Accuracy on 200 samples: 93.0%
+baby: Accuracy on 200 samples: 91.0%
+books: Accuracy on 200 samples: 87.0%
+camera_photo: Accuracy on 200 samples: 92.5%
+dvd: Accuracy on 200 samples: 88.0%
+electronics: Accuracy on 200 samples: 91.0%
+health_personal_care: Accuracy on 200 samples: 90.0%
+imdb: Accuracy on 200 samples: 88.5%
+kitchen_housewares: Accuracy on 200 samples: 90.0%
+magazines: Accuracy on 200 samples: 94.0%
+music: Accuracy on 200 samples: 84.5%
+software: Accuracy on 200 samples: 92.5%
+sports_outdoors: Accuracy on 200 samples: 89.0%
+toys_games: Accuracy on 200 samples: 86.0%
+video: Accuracy on 200 samples: 85.5%
+Average validation accuracy: 0.8856250000000001
+Evaluating test sets:
+MR: Accuracy on 400 samples: 74.75%
+apparel: Accuracy on 400 samples: 87.75%
+baby: Accuracy on 400 samples: 90.75%
+books: Accuracy on 400 samples: 88.0%
+camera_photo: Accuracy on 400 samples: 91.0%
+dvd: Accuracy on 400 samples: 87.75%
+electronics: Accuracy on 400 samples: 89.5%
+health_personal_care: Accuracy on 400 samples: 89.75%
+imdb: Accuracy on 400 samples: 86.25%
+kitchen_housewares: Accuracy on 400 samples: 89.75%
+magazines: Accuracy on 400 samples: 91.75%
+music: Accuracy on 400 samples: 85.25%
+software: Accuracy on 400 samples: 89.5%
+sports_outdoors: Accuracy on 400 samples: 88.0%
+toys_games: Accuracy on 400 samples: 91.0%
+video: Accuracy on 400 samples: 88.25%
+Average test accuracy: 0.8806249999999999
+Ending epoch 24
+D Training Accuracy: 11.303157216494846%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+97.5	98.35714285714286	97.42857142857143	98.14285714285714	98.35714285714286	97.85714285714286	97.57142857142857	97.71428571428571	98.21428571428571	98.0	98.28571428571429	97.57142857142857	98.07142857142857	98.0	98.35714285714286	98.71428571428571
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 77.5%
+apparel: Accuracy on 200 samples: 90.5%
+baby: Accuracy on 200 samples: 92.0%
+books: Accuracy on 200 samples: 85.5%
+camera_photo: Accuracy on 200 samples: 92.5%
+dvd: Accuracy on 200 samples: 87.0%
+electronics: Accuracy on 200 samples: 91.0%
+health_personal_care: Accuracy on 200 samples: 88.5%
+imdb: Accuracy on 200 samples: 87.5%
+kitchen_housewares: Accuracy on 200 samples: 91.0%
+magazines: Accuracy on 200 samples: 95.0%
+music: Accuracy on 200 samples: 83.0%
+software: Accuracy on 200 samples: 92.0%
+sports_outdoors: Accuracy on 200 samples: 89.0%
+toys_games: Accuracy on 200 samples: 85.5%
+video: Accuracy on 200 samples: 87.5%
+Average validation accuracy: 0.884375
+Evaluating test sets:
+MR: Accuracy on 400 samples: 74.0%
+apparel: Accuracy on 400 samples: 87.0%
+baby: Accuracy on 400 samples: 90.0%
+books: Accuracy on 400 samples: 86.75%
+camera_photo: Accuracy on 400 samples: 91.25%
+dvd: Accuracy on 400 samples: 85.75%
+electronics: Accuracy on 400 samples: 89.0%
+health_personal_care: Accuracy on 400 samples: 89.5%
+imdb: Accuracy on 400 samples: 85.75%
+kitchen_housewares: Accuracy on 400 samples: 89.5%
+magazines: Accuracy on 400 samples: 92.25%
+music: Accuracy on 400 samples: 85.75%
+software: Accuracy on 400 samples: 89.5%
+sports_outdoors: Accuracy on 400 samples: 88.75%
+toys_games: Accuracy on 400 samples: 89.0%
+video: Accuracy on 400 samples: 90.0%
+Average test accuracy: 0.8773437499999999
+Ending epoch 25
+D Training Accuracy: 11.262886597938145%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+97.57142857142857	98.07142857142857	97.71428571428571	97.85714285714286	98.21428571428571	97.85714285714286	97.85714285714286	98.14285714285714	97.71428571428571	98.14285714285714	97.85714285714286	97.07142857142857	97.85714285714286	98.42857142857143	97.5	98.28571428571429
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 74.0%
+apparel: Accuracy on 200 samples: 91.5%
+baby: Accuracy on 200 samples: 90.0%
+books: Accuracy on 200 samples: 87.5%
+camera_photo: Accuracy on 200 samples: 94.0%
+dvd: Accuracy on 200 samples: 88.5%
+electronics: Accuracy on 200 samples: 90.0%
+health_personal_care: Accuracy on 200 samples: 89.0%
+imdb: Accuracy on 200 samples: 87.0%
+kitchen_housewares: Accuracy on 200 samples: 91.5%
+magazines: Accuracy on 200 samples: 93.5%
+music: Accuracy on 200 samples: 84.5%
+software: Accuracy on 200 samples: 91.5%
+sports_outdoors: Accuracy on 200 samples: 87.0%
+toys_games: Accuracy on 200 samples: 86.5%
+video: Accuracy on 200 samples: 86.0%
+Average validation accuracy: 0.8825000000000001
+Evaluating test sets:
+MR: Accuracy on 400 samples: 75.25%
+apparel: Accuracy on 400 samples: 87.75%
+baby: Accuracy on 400 samples: 90.75%
+books: Accuracy on 400 samples: 88.25%
+camera_photo: Accuracy on 400 samples: 91.5%
+dvd: Accuracy on 400 samples: 87.75%
+electronics: Accuracy on 400 samples: 89.25%
+health_personal_care: Accuracy on 400 samples: 90.0%
+imdb: Accuracy on 400 samples: 86.0%
+kitchen_housewares: Accuracy on 400 samples: 90.0%
+magazines: Accuracy on 400 samples: 91.75%
+music: Accuracy on 400 samples: 84.75%
+software: Accuracy on 400 samples: 89.0%
+sports_outdoors: Accuracy on 400 samples: 88.25%
+toys_games: Accuracy on 400 samples: 90.0%
+video: Accuracy on 400 samples: 88.75%
+Average test accuracy: 0.880625
+Ending epoch 26
+D Training Accuracy: 11.150934278350515%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+98.0	98.35714285714286	98.0	97.71428571428571	98.35714285714286	98.35714285714286	98.07142857142857	98.21428571428571	96.71428571428571	98.92857142857143	98.28571428571429	98.71428571428571	96.92857142857143	97.42857142857143	98.57142857142857	98.28571428571429
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 75.5%
+apparel: Accuracy on 200 samples: 91.5%
+baby: Accuracy on 200 samples: 90.0%
+books: Accuracy on 200 samples: 89.0%
+camera_photo: Accuracy on 200 samples: 94.0%
+dvd: Accuracy on 200 samples: 88.0%
+electronics: Accuracy on 200 samples: 91.5%
+health_personal_care: Accuracy on 200 samples: 89.0%
+imdb: Accuracy on 200 samples: 87.0%
+kitchen_housewares: Accuracy on 200 samples: 91.5%
+magazines: Accuracy on 200 samples: 94.0%
+music: Accuracy on 200 samples: 84.0%
+software: Accuracy on 200 samples: 91.0%
+sports_outdoors: Accuracy on 200 samples: 87.5%
+toys_games: Accuracy on 200 samples: 85.0%
+video: Accuracy on 200 samples: 84.0%
+Average validation accuracy: 0.8828125
+Evaluating test sets:
+MR: Accuracy on 400 samples: 75.75%
+apparel: Accuracy on 400 samples: 86.75%
+baby: Accuracy on 400 samples: 90.0%
+books: Accuracy on 400 samples: 86.25%
+camera_photo: Accuracy on 400 samples: 90.5%
+dvd: Accuracy on 400 samples: 87.75%
+electronics: Accuracy on 400 samples: 89.5%
+health_personal_care: Accuracy on 400 samples: 89.25%
+imdb: Accuracy on 400 samples: 87.75%
+kitchen_housewares: Accuracy on 400 samples: 88.75%
+magazines: Accuracy on 400 samples: 92.0%
+music: Accuracy on 400 samples: 85.25%
+software: Accuracy on 400 samples: 89.5%
+sports_outdoors: Accuracy on 400 samples: 89.0%
+toys_games: Accuracy on 400 samples: 91.25%
+video: Accuracy on 400 samples: 89.0%
+Average test accuracy: 0.8801562499999999
+Ending epoch 27
+D Training Accuracy: 11.170264175257731%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+97.14285714285714	98.28571428571429	98.07142857142857	97.5	98.0	98.07142857142857	97.71428571428571	98.42857142857143	97.57142857142857	97.57142857142857	98.28571428571429	97.5	98.85714285714286	97.64285714285714	98.28571428571429	98.5
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 76.5%
+apparel: Accuracy on 200 samples: 91.5%
+baby: Accuracy on 200 samples: 90.5%
+books: Accuracy on 200 samples: 85.5%
+camera_photo: Accuracy on 200 samples: 92.0%
+dvd: Accuracy on 200 samples: 86.0%
+electronics: Accuracy on 200 samples: 91.5%
+health_personal_care: Accuracy on 200 samples: 87.5%
+imdb: Accuracy on 200 samples: 88.0%
+kitchen_housewares: Accuracy on 200 samples: 89.5%
+magazines: Accuracy on 200 samples: 92.5%
+music: Accuracy on 200 samples: 86.0%
+software: Accuracy on 200 samples: 91.5%
+sports_outdoors: Accuracy on 200 samples: 88.5%
+toys_games: Accuracy on 200 samples: 85.0%
+video: Accuracy on 200 samples: 86.0%
+Average validation accuracy: 0.8799999999999999
+Evaluating test sets:
+MR: Accuracy on 400 samples: 75.25%
+apparel: Accuracy on 400 samples: 88.0%
+baby: Accuracy on 400 samples: 91.0%
+books: Accuracy on 400 samples: 86.25%
+camera_photo: Accuracy on 400 samples: 91.25%
+dvd: Accuracy on 400 samples: 87.0%
+electronics: Accuracy on 400 samples: 90.25%
+health_personal_care: Accuracy on 400 samples: 88.5%
+imdb: Accuracy on 400 samples: 86.5%
+kitchen_housewares: Accuracy on 400 samples: 90.25%
+magazines: Accuracy on 400 samples: 92.25%
+music: Accuracy on 400 samples: 85.5%
+software: Accuracy on 400 samples: 90.5%
+sports_outdoors: Accuracy on 400 samples: 86.75%
+toys_games: Accuracy on 400 samples: 90.0%
+video: Accuracy on 400 samples: 89.0%
+Average test accuracy: 0.88015625
+Ending epoch 28
+D Training Accuracy: 11.311211340206185%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+96.42857142857143	98.64285714285714	97.42857142857143	97.07142857142857	98.85714285714286	98.28571428571429	97.85714285714286	98.85714285714286	97.78571428571429	98.42857142857143	97.92857142857143	97.85714285714286	98.28571428571429	98.5	98.14285714285714	98.71428571428571
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 76.5%
+apparel: Accuracy on 200 samples: 92.5%
+baby: Accuracy on 200 samples: 89.5%
+books: Accuracy on 200 samples: 88.0%
+camera_photo: Accuracy on 200 samples: 93.0%
+dvd: Accuracy on 200 samples: 88.0%
+electronics: Accuracy on 200 samples: 90.0%
+health_personal_care: Accuracy on 200 samples: 87.5%
+imdb: Accuracy on 200 samples: 87.5%
+kitchen_housewares: Accuracy on 200 samples: 91.0%
+magazines: Accuracy on 200 samples: 94.0%
+music: Accuracy on 200 samples: 83.5%
+software: Accuracy on 200 samples: 92.5%
+sports_outdoors: Accuracy on 200 samples: 90.0%
+toys_games: Accuracy on 200 samples: 87.0%
+video: Accuracy on 200 samples: 85.5%
+Average validation accuracy: 0.885
+Evaluating test sets:
+MR: Accuracy on 400 samples: 74.25%
+apparel: Accuracy on 400 samples: 87.25%
+baby: Accuracy on 400 samples: 90.75%
+books: Accuracy on 400 samples: 86.5%
+camera_photo: Accuracy on 400 samples: 91.0%
+dvd: Accuracy on 400 samples: 87.5%
+electronics: Accuracy on 400 samples: 89.5%
+health_personal_care: Accuracy on 400 samples: 89.75%
+imdb: Accuracy on 400 samples: 86.75%
+kitchen_housewares: Accuracy on 400 samples: 90.0%
+magazines: Accuracy on 400 samples: 92.25%
+music: Accuracy on 400 samples: 84.5%
+software: Accuracy on 400 samples: 89.0%
+sports_outdoors: Accuracy on 400 samples: 88.25%
+toys_games: Accuracy on 400 samples: 90.0%
+video: Accuracy on 400 samples: 89.25%
+Average test accuracy: 0.8790625000000001
+Ending epoch 29
+D Training Accuracy: 10.579896907216495%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+97.85714285714286	97.92857142857143	98.21428571428571	98.64285714285714	98.78571428571429	98.71428571428571	98.71428571428571	98.21428571428571	97.85714285714286	99.0	98.85714285714286	98.71428571428571	98.07142857142857	98.28571428571429	98.35714285714286	98.5
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 76.5%
+apparel: Accuracy on 200 samples: 91.5%
+baby: Accuracy on 200 samples: 90.0%
+books: Accuracy on 200 samples: 87.5%
+camera_photo: Accuracy on 200 samples: 92.0%
+dvd: Accuracy on 200 samples: 87.0%
+electronics: Accuracy on 200 samples: 92.0%
+health_personal_care: Accuracy on 200 samples: 87.5%
+imdb: Accuracy on 200 samples: 88.0%
+kitchen_housewares: Accuracy on 200 samples: 92.0%
+magazines: Accuracy on 200 samples: 92.5%
+music: Accuracy on 200 samples: 85.0%
+software: Accuracy on 200 samples: 91.0%
+sports_outdoors: Accuracy on 200 samples: 87.0%
+toys_games: Accuracy on 200 samples: 86.0%
+video: Accuracy on 200 samples: 85.5%
+Average validation accuracy: 0.881875
+Evaluating test sets:
+MR: Accuracy on 400 samples: 74.25%
+apparel: Accuracy on 400 samples: 86.75%
+baby: Accuracy on 400 samples: 91.5%
+books: Accuracy on 400 samples: 87.75%
+camera_photo: Accuracy on 400 samples: 90.75%
+dvd: Accuracy on 400 samples: 87.75%
+electronics: Accuracy on 400 samples: 89.5%
+health_personal_care: Accuracy on 400 samples: 90.0%
+imdb: Accuracy on 400 samples: 85.75%
+kitchen_housewares: Accuracy on 400 samples: 89.5%
+magazines: Accuracy on 400 samples: 92.25%
+music: Accuracy on 400 samples: 84.25%
+software: Accuracy on 400 samples: 90.0%
+sports_outdoors: Accuracy on 400 samples: 87.25%
+toys_games: Accuracy on 400 samples: 90.0%
+video: Accuracy on 400 samples: 88.75%
+Average test accuracy: 0.8787499999999999
+Ending epoch 30
+D Training Accuracy: 10.779639175257731%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+98.85714285714286	98.85714285714286	97.92857142857143	98.35714285714286	99.0	98.5	98.42857142857143	98.14285714285714	98.57142857142857	98.57142857142857	98.21428571428571	98.14285714285714	99.0	99.14285714285714	98.0	98.78571428571429
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 78.0%
+apparel: Accuracy on 200 samples: 91.0%
+baby: Accuracy on 200 samples: 89.0%
+books: Accuracy on 200 samples: 90.0%
+camera_photo: Accuracy on 200 samples: 91.0%
+dvd: Accuracy on 200 samples: 88.5%
+electronics: Accuracy on 200 samples: 89.5%
+health_personal_care: Accuracy on 200 samples: 88.5%
+imdb: Accuracy on 200 samples: 86.0%
+kitchen_housewares: Accuracy on 200 samples: 92.5%
+magazines: Accuracy on 200 samples: 93.0%
+music: Accuracy on 200 samples: 83.0%
+software: Accuracy on 200 samples: 91.0%
+sports_outdoors: Accuracy on 200 samples: 86.5%
+toys_games: Accuracy on 200 samples: 88.0%
+video: Accuracy on 200 samples: 85.5%
+Average validation accuracy: 0.8818750000000001
+Evaluating test sets:
+MR: Accuracy on 400 samples: 75.25%
+apparel: Accuracy on 400 samples: 87.5%
+baby: Accuracy on 400 samples: 90.5%
+books: Accuracy on 400 samples: 85.0%
+camera_photo: Accuracy on 400 samples: 89.75%
+dvd: Accuracy on 400 samples: 88.25%
+electronics: Accuracy on 400 samples: 88.25%
+health_personal_care: Accuracy on 400 samples: 88.75%
+imdb: Accuracy on 400 samples: 85.75%
+kitchen_housewares: Accuracy on 400 samples: 89.25%
+magazines: Accuracy on 400 samples: 90.75%
+music: Accuracy on 400 samples: 85.25%
+software: Accuracy on 400 samples: 88.25%
+sports_outdoors: Accuracy on 400 samples: 87.25%
+toys_games: Accuracy on 400 samples: 90.25%
+video: Accuracy on 400 samples: 86.75%
+Average test accuracy: 0.87296875
+Ending epoch 31
+D Training Accuracy: 10.653189432989691%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+98.07142857142857	98.28571428571429	98.57142857142857	98.0	98.35714285714286	98.71428571428571	98.71428571428571	98.5	98.35714285714286	98.14285714285714	98.64285714285714	99.0	98.07142857142857	99.35714285714286	98.21428571428571	98.35714285714286
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 75.5%
+apparel: Accuracy on 200 samples: 92.0%
+baby: Accuracy on 200 samples: 90.0%
+books: Accuracy on 200 samples: 89.0%
+camera_photo: Accuracy on 200 samples: 92.5%
+dvd: Accuracy on 200 samples: 87.5%
+electronics: Accuracy on 200 samples: 92.5%
+health_personal_care: Accuracy on 200 samples: 88.5%
+imdb: Accuracy on 200 samples: 88.5%
+kitchen_housewares: Accuracy on 200 samples: 90.5%
+magazines: Accuracy on 200 samples: 93.0%
+music: Accuracy on 200 samples: 85.5%
+software: Accuracy on 200 samples: 90.5%
+sports_outdoors: Accuracy on 200 samples: 89.0%
+toys_games: Accuracy on 200 samples: 85.5%
+video: Accuracy on 200 samples: 85.0%
+Average validation accuracy: 0.884375
+Evaluating test sets:
+MR: Accuracy on 400 samples: 74.75%
+apparel: Accuracy on 400 samples: 87.25%
+baby: Accuracy on 400 samples: 90.5%
+books: Accuracy on 400 samples: 87.5%
+camera_photo: Accuracy on 400 samples: 91.25%
+dvd: Accuracy on 400 samples: 88.0%
+electronics: Accuracy on 400 samples: 88.25%
+health_personal_care: Accuracy on 400 samples: 89.5%
+imdb: Accuracy on 400 samples: 86.0%
+kitchen_housewares: Accuracy on 400 samples: 89.25%
+magazines: Accuracy on 400 samples: 92.75%
+music: Accuracy on 400 samples: 85.75%
+software: Accuracy on 400 samples: 90.0%
+sports_outdoors: Accuracy on 400 samples: 87.5%
+toys_games: Accuracy on 400 samples: 89.0%
+video: Accuracy on 400 samples: 89.25%
+Average test accuracy: 0.8790625000000001
+Ending epoch 32
+D Training Accuracy: 10.811855670103093%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+98.57142857142857	98.07142857142857	98.07142857142857	98.14285714285714	97.64285714285714	98.35714285714286	98.64285714285714	98.92857142857143	98.57142857142857	98.71428571428571	98.42857142857143	97.92857142857143	98.64285714285714	98.64285714285714	98.42857142857143	98.85714285714286
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 75.5%
+apparel: Accuracy on 200 samples: 92.0%
+baby: Accuracy on 200 samples: 92.0%
+books: Accuracy on 200 samples: 86.0%
+camera_photo: Accuracy on 200 samples: 92.0%
+dvd: Accuracy on 200 samples: 86.5%
+electronics: Accuracy on 200 samples: 90.0%
+health_personal_care: Accuracy on 200 samples: 88.5%
+imdb: Accuracy on 200 samples: 88.0%
+kitchen_housewares: Accuracy on 200 samples: 90.5%
+magazines: Accuracy on 200 samples: 94.0%
+music: Accuracy on 200 samples: 82.5%
+software: Accuracy on 200 samples: 90.0%
+sports_outdoors: Accuracy on 200 samples: 87.0%
+toys_games: Accuracy on 200 samples: 83.5%
+video: Accuracy on 200 samples: 87.0%
+Average validation accuracy: 0.8781249999999999
+Evaluating test sets:
+MR: Accuracy on 400 samples: 74.25%
+apparel: Accuracy on 400 samples: 86.5%
+baby: Accuracy on 400 samples: 89.75%
+books: Accuracy on 400 samples: 86.5%
+camera_photo: Accuracy on 400 samples: 91.0%
+dvd: Accuracy on 400 samples: 87.75%
+electronics: Accuracy on 400 samples: 89.5%
+health_personal_care: Accuracy on 400 samples: 89.0%
+imdb: Accuracy on 400 samples: 86.0%
+kitchen_housewares: Accuracy on 400 samples: 89.25%
+magazines: Accuracy on 400 samples: 92.25%
+music: Accuracy on 400 samples: 85.75%
+software: Accuracy on 400 samples: 89.5%
+sports_outdoors: Accuracy on 400 samples: 88.0%
+toys_games: Accuracy on 400 samples: 89.0%
+video: Accuracy on 400 samples: 90.0%
+Average test accuracy: 0.8775000000000001
+Ending epoch 33
+D Training Accuracy: 10.600032216494846%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+98.57142857142857	98.78571428571429	99.14285714285714	98.71428571428571	98.78571428571429	98.5	98.64285714285714	98.85714285714286	98.35714285714286	98.28571428571429	99.0	98.71428571428571	98.92857142857143	97.5	98.42857142857143	98.35714285714286
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 77.0%
+apparel: Accuracy on 200 samples: 92.5%
+baby: Accuracy on 200 samples: 89.5%
+books: Accuracy on 200 samples: 88.0%
+camera_photo: Accuracy on 200 samples: 92.5%
+dvd: Accuracy on 200 samples: 85.5%
+electronics: Accuracy on 200 samples: 91.5%
+health_personal_care: Accuracy on 200 samples: 88.5%
+imdb: Accuracy on 200 samples: 87.5%
+kitchen_housewares: Accuracy on 200 samples: 91.5%
+magazines: Accuracy on 200 samples: 93.0%
+music: Accuracy on 200 samples: 86.0%
+software: Accuracy on 200 samples: 90.5%
+sports_outdoors: Accuracy on 200 samples: 89.5%
+toys_games: Accuracy on 200 samples: 87.5%
+video: Accuracy on 200 samples: 86.5%
+Average validation accuracy: 0.8856249999999999
+Evaluating test sets:
+MR: Accuracy on 400 samples: 75.25%
+apparel: Accuracy on 400 samples: 88.5%
+baby: Accuracy on 400 samples: 91.75%
+books: Accuracy on 400 samples: 87.0%
+camera_photo: Accuracy on 400 samples: 91.5%
+dvd: Accuracy on 400 samples: 87.75%
+electronics: Accuracy on 400 samples: 89.0%
+health_personal_care: Accuracy on 400 samples: 89.5%
+imdb: Accuracy on 400 samples: 84.5%
+kitchen_housewares: Accuracy on 400 samples: 89.5%
+magazines: Accuracy on 400 samples: 92.0%
+music: Accuracy on 400 samples: 85.0%
+software: Accuracy on 400 samples: 89.5%
+sports_outdoors: Accuracy on 400 samples: 88.5%
+toys_games: Accuracy on 400 samples: 90.75%
+video: Accuracy on 400 samples: 90.0%
+Average test accuracy: 0.88125
+Ending epoch 34
+D Training Accuracy: 10.22229381443299%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+98.07142857142857	99.35714285714286	98.28571428571429	99.07142857142857	99.14285714285714	99.07142857142857	98.5	99.14285714285714	98.57142857142857	98.35714285714286	99.0	99.21428571428571	99.21428571428571	98.42857142857143	98.14285714285714	99.07142857142857
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 77.5%
+apparel: Accuracy on 200 samples: 93.0%
+baby: Accuracy on 200 samples: 89.5%
+books: Accuracy on 200 samples: 88.0%
+camera_photo: Accuracy on 200 samples: 92.0%
+dvd: Accuracy on 200 samples: 86.5%
+electronics: Accuracy on 200 samples: 91.0%
+health_personal_care: Accuracy on 200 samples: 89.5%
+imdb: Accuracy on 200 samples: 88.0%
+kitchen_housewares: Accuracy on 200 samples: 91.5%
+magazines: Accuracy on 200 samples: 93.0%
+music: Accuracy on 200 samples: 84.5%
+software: Accuracy on 200 samples: 91.0%
+sports_outdoors: Accuracy on 200 samples: 88.5%
+toys_games: Accuracy on 200 samples: 87.5%
+video: Accuracy on 200 samples: 85.5%
+Average validation accuracy: 0.8853125000000001
+Evaluating test sets:
+MR: Accuracy on 400 samples: 75.75%
+apparel: Accuracy on 400 samples: 87.75%
+baby: Accuracy on 400 samples: 90.75%
+books: Accuracy on 400 samples: 86.5%
+camera_photo: Accuracy on 400 samples: 90.0%
+dvd: Accuracy on 400 samples: 88.0%
+electronics: Accuracy on 400 samples: 88.75%
+health_personal_care: Accuracy on 400 samples: 89.25%
+imdb: Accuracy on 400 samples: 85.0%
+kitchen_housewares: Accuracy on 400 samples: 89.0%
+magazines: Accuracy on 400 samples: 92.0%
+music: Accuracy on 400 samples: 85.5%
+software: Accuracy on 400 samples: 88.75%
+sports_outdoors: Accuracy on 400 samples: 88.25%
+toys_games: Accuracy on 400 samples: 91.0%
+video: Accuracy on 400 samples: 88.5%
+Average test accuracy: 0.87796875
+Ending epoch 35
+D Training Accuracy: 10.035438144329897%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+98.21428571428571	98.85714285714286	98.42857142857143	98.78571428571429	98.64285714285714	98.85714285714286	99.14285714285714	98.78571428571429	98.0	98.28571428571429	99.5	98.57142857142857	98.64285714285714	99.21428571428571	98.71428571428571	99.07142857142857
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 76.5%
+apparel: Accuracy on 200 samples: 90.0%
+baby: Accuracy on 200 samples: 91.0%
+books: Accuracy on 200 samples: 88.5%
+camera_photo: Accuracy on 200 samples: 93.5%
+dvd: Accuracy on 200 samples: 88.5%
+electronics: Accuracy on 200 samples: 90.5%
+health_personal_care: Accuracy on 200 samples: 88.0%
+imdb: Accuracy on 200 samples: 87.0%
+kitchen_housewares: Accuracy on 200 samples: 92.0%
+magazines: Accuracy on 200 samples: 93.0%
+music: Accuracy on 200 samples: 85.0%
+software: Accuracy on 200 samples: 91.0%
+sports_outdoors: Accuracy on 200 samples: 87.5%
+toys_games: Accuracy on 200 samples: 87.0%
+video: Accuracy on 200 samples: 84.5%
+Average validation accuracy: 0.8834375
+Evaluating test sets:
+MR: Accuracy on 400 samples: 75.25%
+apparel: Accuracy on 400 samples: 85.75%
+baby: Accuracy on 400 samples: 91.25%
+books: Accuracy on 400 samples: 86.5%
+camera_photo: Accuracy on 400 samples: 88.75%
+dvd: Accuracy on 400 samples: 87.25%
+electronics: Accuracy on 400 samples: 89.0%
+health_personal_care: Accuracy on 400 samples: 87.75%
+imdb: Accuracy on 400 samples: 87.0%
+kitchen_housewares: Accuracy on 400 samples: 89.0%
+magazines: Accuracy on 400 samples: 90.25%
+music: Accuracy on 400 samples: 85.25%
+software: Accuracy on 400 samples: 89.75%
+sports_outdoors: Accuracy on 400 samples: 88.0%
+toys_games: Accuracy on 400 samples: 90.25%
+video: Accuracy on 400 samples: 88.5%
+Average test accuracy: 0.8746875000000001
+Ending epoch 36
+D Training Accuracy: 9.977448453608247%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+98.85714285714286	99.0	98.5	98.92857142857143	99.42857142857143	98.64285714285714	99.07142857142857	98.92857142857143	98.78571428571429	99.0	98.92857142857143	99.07142857142857	99.14285714285714	99.14285714285714	99.21428571428571	99.07142857142857
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 75.0%
+apparel: Accuracy on 200 samples: 91.5%
+baby: Accuracy on 200 samples: 89.5%
+books: Accuracy on 200 samples: 88.5%
+camera_photo: Accuracy on 200 samples: 93.0%
+dvd: Accuracy on 200 samples: 86.5%
+electronics: Accuracy on 200 samples: 90.5%
+health_personal_care: Accuracy on 200 samples: 87.0%
+imdb: Accuracy on 200 samples: 87.0%
+kitchen_housewares: Accuracy on 200 samples: 91.0%
+magazines: Accuracy on 200 samples: 93.5%
+music: Accuracy on 200 samples: 85.0%
+software: Accuracy on 200 samples: 91.5%
+sports_outdoors: Accuracy on 200 samples: 87.5%
+toys_games: Accuracy on 200 samples: 87.0%
+video: Accuracy on 200 samples: 84.5%
+Average validation accuracy: 0.8803125
+Evaluating test sets:
+MR: Accuracy on 400 samples: 75.0%
+apparel: Accuracy on 400 samples: 87.5%
+baby: Accuracy on 400 samples: 91.0%
+books: Accuracy on 400 samples: 87.5%
+camera_photo: Accuracy on 400 samples: 90.0%
+dvd: Accuracy on 400 samples: 88.25%
+electronics: Accuracy on 400 samples: 89.0%
+health_personal_care: Accuracy on 400 samples: 90.25%
+imdb: Accuracy on 400 samples: 86.5%
+kitchen_housewares: Accuracy on 400 samples: 89.5%
+magazines: Accuracy on 400 samples: 91.0%
+music: Accuracy on 400 samples: 84.75%
+software: Accuracy on 400 samples: 89.5%
+sports_outdoors: Accuracy on 400 samples: 87.25%
+toys_games: Accuracy on 400 samples: 89.75%
+video: Accuracy on 400 samples: 88.75%
+Average test accuracy: 0.8784375
+Ending epoch 37
+D Training Accuracy: 9.844555412371134%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+99.0	98.42857142857143	98.85714285714286	99.14285714285714	99.07142857142857	98.57142857142857	98.85714285714286	99.14285714285714	99.0	99.21428571428571	99.35714285714286	99.0	99.28571428571429	99.0	98.28571428571429	99.07142857142857
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 76.5%
+apparel: Accuracy on 200 samples: 91.0%
+baby: Accuracy on 200 samples: 89.0%
+books: Accuracy on 200 samples: 91.0%
+camera_photo: Accuracy on 200 samples: 93.0%
+dvd: Accuracy on 200 samples: 87.5%
+electronics: Accuracy on 200 samples: 89.5%
+health_personal_care: Accuracy on 200 samples: 86.5%
+imdb: Accuracy on 200 samples: 85.5%
+kitchen_housewares: Accuracy on 200 samples: 91.0%
+magazines: Accuracy on 200 samples: 92.5%
+music: Accuracy on 200 samples: 83.5%
+software: Accuracy on 200 samples: 91.5%
+sports_outdoors: Accuracy on 200 samples: 89.5%
+toys_games: Accuracy on 200 samples: 86.5%
+video: Accuracy on 200 samples: 84.5%
+Average validation accuracy: 0.8803125
+Evaluating test sets:
+MR: Accuracy on 400 samples: 73.5%
+apparel: Accuracy on 400 samples: 87.0%
+baby: Accuracy on 400 samples: 89.75%
+books: Accuracy on 400 samples: 87.0%
+camera_photo: Accuracy on 400 samples: 89.25%
+dvd: Accuracy on 400 samples: 87.75%
+electronics: Accuracy on 400 samples: 87.25%
+health_personal_care: Accuracy on 400 samples: 88.5%
+imdb: Accuracy on 400 samples: 86.5%
+kitchen_housewares: Accuracy on 400 samples: 89.0%
+magazines: Accuracy on 400 samples: 89.5%
+music: Accuracy on 400 samples: 85.75%
+software: Accuracy on 400 samples: 89.25%
+sports_outdoors: Accuracy on 400 samples: 89.0%
+toys_games: Accuracy on 400 samples: 90.0%
+video: Accuracy on 400 samples: 87.0%
+Average test accuracy: 0.8725
+Ending epoch 38
+D Training Accuracy: 9.62951030927835%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+99.35714285714286	99.64285714285714	99.21428571428571	98.92857142857143	99.5	99.5	98.92857142857143	98.5	98.92857142857143	99.5	99.21428571428571	99.42857142857143	99.28571428571429	99.0	99.64285714285714	98.78571428571429
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 77.0%
+apparel: Accuracy on 200 samples: 91.5%
+baby: Accuracy on 200 samples: 90.0%
+books: Accuracy on 200 samples: 88.5%
+camera_photo: Accuracy on 200 samples: 92.5%
+dvd: Accuracy on 200 samples: 86.5%
+electronics: Accuracy on 200 samples: 91.5%
+health_personal_care: Accuracy on 200 samples: 87.0%
+imdb: Accuracy on 200 samples: 85.5%
+kitchen_housewares: Accuracy on 200 samples: 92.0%
+magazines: Accuracy on 200 samples: 93.0%
+music: Accuracy on 200 samples: 86.0%
+software: Accuracy on 200 samples: 92.0%
+sports_outdoors: Accuracy on 200 samples: 89.5%
+toys_games: Accuracy on 200 samples: 86.0%
+video: Accuracy on 200 samples: 84.5%
+Average validation accuracy: 0.8831249999999999
+Evaluating test sets:
+MR: Accuracy on 400 samples: 74.75%
+apparel: Accuracy on 400 samples: 87.25%
+baby: Accuracy on 400 samples: 91.0%
+books: Accuracy on 400 samples: 88.25%
+camera_photo: Accuracy on 400 samples: 90.5%
+dvd: Accuracy on 400 samples: 87.25%
+electronics: Accuracy on 400 samples: 87.75%
+health_personal_care: Accuracy on 400 samples: 89.25%
+imdb: Accuracy on 400 samples: 86.25%
+kitchen_housewares: Accuracy on 400 samples: 89.25%
+magazines: Accuracy on 400 samples: 90.75%
+music: Accuracy on 400 samples: 86.0%
+software: Accuracy on 400 samples: 90.25%
+sports_outdoors: Accuracy on 400 samples: 88.0%
+toys_games: Accuracy on 400 samples: 90.75%
+video: Accuracy on 400 samples: 88.0%
+Average test accuracy: 0.87828125
+Ending epoch 39
+D Training Accuracy: 9.95811855670103%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+99.28571428571429	99.21428571428571	99.0	99.28571428571429	99.21428571428571	98.92857142857143	99.07142857142857	99.0	99.0	99.42857142857143	99.07142857142857	99.21428571428571	99.21428571428571	99.07142857142857	99.07142857142857	99.57142857142857
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 75.0%
+apparel: Accuracy on 200 samples: 92.0%
+baby: Accuracy on 200 samples: 88.5%
+books: Accuracy on 200 samples: 89.0%
+camera_photo: Accuracy on 200 samples: 93.0%
+dvd: Accuracy on 200 samples: 86.5%
+electronics: Accuracy on 200 samples: 90.5%
+health_personal_care: Accuracy on 200 samples: 88.0%
+imdb: Accuracy on 200 samples: 87.0%
+kitchen_housewares: Accuracy on 200 samples: 92.0%
+magazines: Accuracy on 200 samples: 93.0%
+music: Accuracy on 200 samples: 84.0%
+software: Accuracy on 200 samples: 92.0%
+sports_outdoors: Accuracy on 200 samples: 89.0%
+toys_games: Accuracy on 200 samples: 87.5%
+video: Accuracy on 200 samples: 85.5%
+Average validation accuracy: 0.8828125000000001
+Evaluating test sets:
+MR: Accuracy on 400 samples: 74.5%
+apparel: Accuracy on 400 samples: 87.5%
+baby: Accuracy on 400 samples: 92.0%
+books: Accuracy on 400 samples: 88.75%
+camera_photo: Accuracy on 400 samples: 90.25%
+dvd: Accuracy on 400 samples: 87.0%
+electronics: Accuracy on 400 samples: 88.0%
+health_personal_care: Accuracy on 400 samples: 89.5%
+imdb: Accuracy on 400 samples: 86.0%
+kitchen_housewares: Accuracy on 400 samples: 89.5%
+magazines: Accuracy on 400 samples: 91.25%
+music: Accuracy on 400 samples: 86.0%
+software: Accuracy on 400 samples: 90.25%
+sports_outdoors: Accuracy on 400 samples: 88.25%
+toys_games: Accuracy on 400 samples: 90.25%
+video: Accuracy on 400 samples: 88.25%
+Average test accuracy: 0.87953125
+Ending epoch 40
+D Training Accuracy: 9.656894329896907%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+99.0	99.28571428571429	99.28571428571429	99.28571428571429	99.42857142857143	99.57142857142857	99.28571428571429	99.28571428571429	99.42857142857143	99.07142857142857	99.64285714285714	98.71428571428571	99.64285714285714	99.21428571428571	99.14285714285714	99.35714285714286
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 75.5%
+apparel: Accuracy on 200 samples: 91.5%
+baby: Accuracy on 200 samples: 89.5%
+books: Accuracy on 200 samples: 87.5%
+camera_photo: Accuracy on 200 samples: 92.0%
+dvd: Accuracy on 200 samples: 87.5%
+electronics: Accuracy on 200 samples: 91.0%
+health_personal_care: Accuracy on 200 samples: 87.0%
+imdb: Accuracy on 200 samples: 86.5%
+kitchen_housewares: Accuracy on 200 samples: 91.5%
+magazines: Accuracy on 200 samples: 93.0%
+music: Accuracy on 200 samples: 85.5%
+software: Accuracy on 200 samples: 91.5%
+sports_outdoors: Accuracy on 200 samples: 89.0%
+toys_games: Accuracy on 200 samples: 86.5%
+video: Accuracy on 200 samples: 85.0%
+Average validation accuracy: 0.8812500000000001
+Evaluating test sets:
+MR: Accuracy on 400 samples: 73.75%
+apparel: Accuracy on 400 samples: 87.75%
+baby: Accuracy on 400 samples: 91.0%
+books: Accuracy on 400 samples: 87.5%
+camera_photo: Accuracy on 400 samples: 90.25%
+dvd: Accuracy on 400 samples: 87.75%
+electronics: Accuracy on 400 samples: 88.5%
+health_personal_care: Accuracy on 400 samples: 90.75%
+imdb: Accuracy on 400 samples: 85.25%
+kitchen_housewares: Accuracy on 400 samples: 89.75%
+magazines: Accuracy on 400 samples: 91.0%
+music: Accuracy on 400 samples: 85.5%
+software: Accuracy on 400 samples: 89.0%
+sports_outdoors: Accuracy on 400 samples: 87.25%
+toys_games: Accuracy on 400 samples: 90.25%
+video: Accuracy on 400 samples: 89.5%
+Average test accuracy: 0.8779687500000001
+Ending epoch 41
+D Training Accuracy: 9.595682989690722%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+99.0	99.57142857142857	99.28571428571429	99.57142857142857	99.5	99.35714285714286	99.35714285714286	98.92857142857143	99.28571428571429	99.0	99.5	99.42857142857143	99.28571428571429	99.28571428571429	98.85714285714286	99.35714285714286
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 76.0%
+apparel: Accuracy on 200 samples: 91.0%
+baby: Accuracy on 200 samples: 89.5%
+books: Accuracy on 200 samples: 83.5%
+camera_photo: Accuracy on 200 samples: 91.5%
+dvd: Accuracy on 200 samples: 87.0%
+electronics: Accuracy on 200 samples: 89.0%
+health_personal_care: Accuracy on 200 samples: 87.0%
+imdb: Accuracy on 200 samples: 86.0%
+kitchen_housewares: Accuracy on 200 samples: 89.0%
+magazines: Accuracy on 200 samples: 93.0%
+music: Accuracy on 200 samples: 82.5%
+software: Accuracy on 200 samples: 90.0%
+sports_outdoors: Accuracy on 200 samples: 86.5%
+toys_games: Accuracy on 200 samples: 83.5%
+video: Accuracy on 200 samples: 88.0%
+Average validation accuracy: 0.8706250000000001
+Evaluating test sets:
+MR: Accuracy on 400 samples: 74.5%
+apparel: Accuracy on 400 samples: 84.5%
+baby: Accuracy on 400 samples: 89.75%
+books: Accuracy on 400 samples: 85.75%
+camera_photo: Accuracy on 400 samples: 91.5%
+dvd: Accuracy on 400 samples: 84.75%
+electronics: Accuracy on 400 samples: 87.75%
+health_personal_care: Accuracy on 400 samples: 87.75%
+imdb: Accuracy on 400 samples: 82.5%
+kitchen_housewares: Accuracy on 400 samples: 88.5%
+magazines: Accuracy on 400 samples: 91.75%
+music: Accuracy on 400 samples: 85.75%
+software: Accuracy on 400 samples: 89.75%
+sports_outdoors: Accuracy on 400 samples: 87.5%
+toys_games: Accuracy on 400 samples: 86.75%
+video: Accuracy on 400 samples: 87.5%
+Average test accuracy: 0.86640625
+Ending epoch 42
+D Training Accuracy: 9.225998711340207%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+98.64285714285714	99.64285714285714	99.57142857142857	99.5	99.21428571428571	100.0	99.57142857142857	99.28571428571429	99.5	99.28571428571429	99.28571428571429	99.71428571428571	99.64285714285714	99.21428571428571	99.14285714285714	99.71428571428571
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 73.0%
+apparel: Accuracy on 200 samples: 91.5%
+baby: Accuracy on 200 samples: 90.0%
+books: Accuracy on 200 samples: 88.5%
+camera_photo: Accuracy on 200 samples: 91.0%
+dvd: Accuracy on 200 samples: 86.5%
+electronics: Accuracy on 200 samples: 92.5%
+health_personal_care: Accuracy on 200 samples: 87.0%
+imdb: Accuracy on 200 samples: 87.5%
+kitchen_housewares: Accuracy on 200 samples: 90.5%
+magazines: Accuracy on 200 samples: 92.5%
+music: Accuracy on 200 samples: 85.0%
+software: Accuracy on 200 samples: 91.5%
+sports_outdoors: Accuracy on 200 samples: 87.5%
+toys_games: Accuracy on 200 samples: 85.5%
+video: Accuracy on 200 samples: 86.5%
+Average validation accuracy: 0.8790625
+Evaluating test sets:
+MR: Accuracy on 400 samples: 75.25%
+apparel: Accuracy on 400 samples: 87.5%
+baby: Accuracy on 400 samples: 91.25%
+books: Accuracy on 400 samples: 86.0%
+camera_photo: Accuracy on 400 samples: 90.75%
+dvd: Accuracy on 400 samples: 86.75%
+electronics: Accuracy on 400 samples: 88.75%
+health_personal_care: Accuracy on 400 samples: 88.75%
+imdb: Accuracy on 400 samples: 86.5%
+kitchen_housewares: Accuracy on 400 samples: 91.0%
+magazines: Accuracy on 400 samples: 91.5%
+music: Accuracy on 400 samples: 85.5%
+software: Accuracy on 400 samples: 89.5%
+sports_outdoors: Accuracy on 400 samples: 87.75%
+toys_games: Accuracy on 400 samples: 88.25%
+video: Accuracy on 400 samples: 88.5%
+Average test accuracy: 0.8771875
+Ending epoch 43
+D Training Accuracy: 9.060889175257731%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+99.14285714285714	99.5	99.5	99.42857142857143	99.64285714285714	99.28571428571429	99.5	99.71428571428571	99.57142857142857	99.57142857142857	99.85714285714286	99.78571428571429	99.42857142857143	99.21428571428571	99.28571428571429	99.78571428571429
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 74.0%
+apparel: Accuracy on 200 samples: 92.0%
+baby: Accuracy on 200 samples: 89.5%
+books: Accuracy on 200 samples: 87.0%
+camera_photo: Accuracy on 200 samples: 93.0%
+dvd: Accuracy on 200 samples: 87.5%
+electronics: Accuracy on 200 samples: 90.5%
+health_personal_care: Accuracy on 200 samples: 87.5%
+imdb: Accuracy on 200 samples: 84.5%
+kitchen_housewares: Accuracy on 200 samples: 92.5%
+magazines: Accuracy on 200 samples: 92.5%
+music: Accuracy on 200 samples: 84.0%
+software: Accuracy on 200 samples: 90.5%
+sports_outdoors: Accuracy on 200 samples: 90.0%
+toys_games: Accuracy on 200 samples: 86.5%
+video: Accuracy on 200 samples: 85.0%
+Average validation accuracy: 0.8790625000000001
+Evaluating test sets:
+MR: Accuracy on 400 samples: 74.5%
+apparel: Accuracy on 400 samples: 87.75%
+baby: Accuracy on 400 samples: 91.25%
+books: Accuracy on 400 samples: 87.25%
+camera_photo: Accuracy on 400 samples: 90.0%
+dvd: Accuracy on 400 samples: 87.75%
+electronics: Accuracy on 400 samples: 87.0%
+health_personal_care: Accuracy on 400 samples: 89.5%
+imdb: Accuracy on 400 samples: 86.5%
+kitchen_housewares: Accuracy on 400 samples: 89.0%
+magazines: Accuracy on 400 samples: 89.25%
+music: Accuracy on 400 samples: 85.5%
+software: Accuracy on 400 samples: 89.5%
+sports_outdoors: Accuracy on 400 samples: 88.25%
+toys_games: Accuracy on 400 samples: 89.25%
+video: Accuracy on 400 samples: 88.5%
+Average test accuracy: 0.8754687500000001
+Ending epoch 44
+D Training Accuracy: 8.921552835051546%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+99.28571428571429	99.85714285714286	99.71428571428571	99.71428571428571	99.42857142857143	99.42857142857143	99.78571428571429	99.71428571428571	98.92857142857143	99.42857142857143	99.21428571428571	99.78571428571429	99.64285714285714	99.64285714285714	99.5	99.71428571428571
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 71.5%
+apparel: Accuracy on 200 samples: 93.5%
+baby: Accuracy on 200 samples: 90.0%
+books: Accuracy on 200 samples: 87.5%
+camera_photo: Accuracy on 200 samples: 92.5%
+dvd: Accuracy on 200 samples: 87.0%
+electronics: Accuracy on 200 samples: 92.0%
+health_personal_care: Accuracy on 200 samples: 87.5%
+imdb: Accuracy on 200 samples: 84.5%
+kitchen_housewares: Accuracy on 200 samples: 90.5%
+magazines: Accuracy on 200 samples: 92.5%
+music: Accuracy on 200 samples: 85.0%
+software: Accuracy on 200 samples: 91.0%
+sports_outdoors: Accuracy on 200 samples: 89.0%
+toys_games: Accuracy on 200 samples: 86.5%
+video: Accuracy on 200 samples: 86.0%
+Average validation accuracy: 0.8790625
+Evaluating test sets:
+MR: Accuracy on 400 samples: 74.5%
+apparel: Accuracy on 400 samples: 87.5%
+baby: Accuracy on 400 samples: 91.5%
+books: Accuracy on 400 samples: 86.5%
+camera_photo: Accuracy on 400 samples: 90.5%
+dvd: Accuracy on 400 samples: 87.75%
+electronics: Accuracy on 400 samples: 88.75%
+health_personal_care: Accuracy on 400 samples: 89.0%
+imdb: Accuracy on 400 samples: 87.0%
+kitchen_housewares: Accuracy on 400 samples: 90.0%
+magazines: Accuracy on 400 samples: 91.0%
+music: Accuracy on 400 samples: 85.75%
+software: Accuracy on 400 samples: 91.0%
+sports_outdoors: Accuracy on 400 samples: 88.5%
+toys_games: Accuracy on 400 samples: 89.25%
+video: Accuracy on 400 samples: 88.5%
+Average test accuracy: 0.879375
+Ending epoch 45
+D Training Accuracy: 9.055251288659793%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+98.71428571428571	99.78571428571429	99.71428571428571	99.42857142857143	99.5	99.64285714285714	99.57142857142857	99.57142857142857	99.57142857142857	99.71428571428571	99.78571428571429	99.71428571428571	99.78571428571429	99.78571428571429	99.57142857142857	99.64285714285714
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 74.0%
+apparel: Accuracy on 200 samples: 91.5%
+baby: Accuracy on 200 samples: 89.0%
+books: Accuracy on 200 samples: 88.5%
+camera_photo: Accuracy on 200 samples: 93.0%
+dvd: Accuracy on 200 samples: 88.0%
+electronics: Accuracy on 200 samples: 89.5%
+health_personal_care: Accuracy on 200 samples: 87.5%
+imdb: Accuracy on 200 samples: 84.5%
+kitchen_housewares: Accuracy on 200 samples: 91.0%
+magazines: Accuracy on 200 samples: 92.5%
+music: Accuracy on 200 samples: 83.0%
+software: Accuracy on 200 samples: 91.0%
+sports_outdoors: Accuracy on 200 samples: 89.5%
+toys_games: Accuracy on 200 samples: 87.0%
+video: Accuracy on 200 samples: 84.5%
+Average validation accuracy: 0.8775
+Evaluating test sets:
+MR: Accuracy on 400 samples: 72.0%
+apparel: Accuracy on 400 samples: 87.25%
+baby: Accuracy on 400 samples: 90.0%
+books: Accuracy on 400 samples: 86.75%
+camera_photo: Accuracy on 400 samples: 89.75%
+dvd: Accuracy on 400 samples: 87.75%
+electronics: Accuracy on 400 samples: 87.0%
+health_personal_care: Accuracy on 400 samples: 89.75%
+imdb: Accuracy on 400 samples: 86.25%
+kitchen_housewares: Accuracy on 400 samples: 88.0%
+magazines: Accuracy on 400 samples: 90.0%
+music: Accuracy on 400 samples: 84.5%
+software: Accuracy on 400 samples: 89.0%
+sports_outdoors: Accuracy on 400 samples: 88.5%
+toys_games: Accuracy on 400 samples: 89.0%
+video: Accuracy on 400 samples: 88.25%
+Average test accuracy: 0.8710937500000001
+Ending epoch 46
+D Training Accuracy: 9.118878865979381%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+99.0	99.78571428571429	99.64285714285714	99.78571428571429	99.5	99.92857142857143	99.64285714285714	99.71428571428571	99.21428571428571	99.78571428571429	99.5	99.78571428571429	99.78571428571429	99.85714285714286	99.5	99.85714285714286
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 73.0%
+apparel: Accuracy on 200 samples: 88.5%
+baby: Accuracy on 200 samples: 90.0%
+books: Accuracy on 200 samples: 83.5%
+camera_photo: Accuracy on 200 samples: 91.0%
+dvd: Accuracy on 200 samples: 86.5%
+electronics: Accuracy on 200 samples: 88.0%
+health_personal_care: Accuracy on 200 samples: 84.5%
+imdb: Accuracy on 200 samples: 87.0%
+kitchen_housewares: Accuracy on 200 samples: 87.5%
+magazines: Accuracy on 200 samples: 93.0%
+music: Accuracy on 200 samples: 82.0%
+software: Accuracy on 200 samples: 87.5%
+sports_outdoors: Accuracy on 200 samples: 86.0%
+toys_games: Accuracy on 200 samples: 82.5%
+video: Accuracy on 200 samples: 86.0%
+Average validation accuracy: 0.8603124999999998
+Evaluating test sets:
+MR: Accuracy on 400 samples: 75.0%
+apparel: Accuracy on 400 samples: 85.5%
+baby: Accuracy on 400 samples: 87.5%
+books: Accuracy on 400 samples: 83.5%
+camera_photo: Accuracy on 400 samples: 90.25%
+dvd: Accuracy on 400 samples: 83.5%
+electronics: Accuracy on 400 samples: 86.25%
+health_personal_care: Accuracy on 400 samples: 85.25%
+imdb: Accuracy on 400 samples: 80.25%
+kitchen_housewares: Accuracy on 400 samples: 88.0%
+magazines: Accuracy on 400 samples: 92.5%
+music: Accuracy on 400 samples: 83.25%
+software: Accuracy on 400 samples: 88.5%
+sports_outdoors: Accuracy on 400 samples: 86.5%
+toys_games: Accuracy on 400 samples: 86.75%
+video: Accuracy on 400 samples: 86.75%
+Average test accuracy: 0.85578125
+Ending epoch 47
+D Training Accuracy: 9.093105670103093%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+99.5	99.71428571428571	99.35714285714286	99.57142857142857	99.64285714285714	99.71428571428571	99.85714285714286	99.57142857142857	99.42857142857143	99.57142857142857	99.42857142857143	99.35714285714286	99.42857142857143	99.35714285714286	99.5	99.71428571428571
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 76.0%
+apparel: Accuracy on 200 samples: 91.0%
+baby: Accuracy on 200 samples: 90.0%
+books: Accuracy on 200 samples: 85.5%
+camera_photo: Accuracy on 200 samples: 91.0%
+dvd: Accuracy on 200 samples: 86.0%
+electronics: Accuracy on 200 samples: 89.0%
+health_personal_care: Accuracy on 200 samples: 88.0%
+imdb: Accuracy on 200 samples: 86.5%
+kitchen_housewares: Accuracy on 200 samples: 89.0%
+magazines: Accuracy on 200 samples: 92.0%
+music: Accuracy on 200 samples: 83.0%
+software: Accuracy on 200 samples: 89.0%
+sports_outdoors: Accuracy on 200 samples: 87.0%
+toys_games: Accuracy on 200 samples: 83.5%
+video: Accuracy on 200 samples: 88.0%
+Average validation accuracy: 0.8715625000000001
+Evaluating test sets:
+MR: Accuracy on 400 samples: 75.75%
+apparel: Accuracy on 400 samples: 86.75%
+baby: Accuracy on 400 samples: 89.0%
+books: Accuracy on 400 samples: 85.0%
+camera_photo: Accuracy on 400 samples: 91.0%
+dvd: Accuracy on 400 samples: 85.0%
+electronics: Accuracy on 400 samples: 87.5%
+health_personal_care: Accuracy on 400 samples: 89.25%
+imdb: Accuracy on 400 samples: 83.0%
+kitchen_housewares: Accuracy on 400 samples: 88.25%
+magazines: Accuracy on 400 samples: 91.0%
+music: Accuracy on 400 samples: 84.75%
+software: Accuracy on 400 samples: 89.25%
+sports_outdoors: Accuracy on 400 samples: 88.0%
+toys_games: Accuracy on 400 samples: 87.75%
+video: Accuracy on 400 samples: 87.75%
+Average test accuracy: 0.868125
+Ending epoch 48
+D Training Accuracy: 9.188949742268042%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+99.71428571428571	99.78571428571429	99.71428571428571	99.92857142857143	99.71428571428571	99.64285714285714	99.85714285714286	99.64285714285714	99.78571428571429	99.78571428571429	99.71428571428571	99.64285714285714	99.57142857142857	99.71428571428571	99.78571428571429	99.85714285714286
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 74.5%
+apparel: Accuracy on 200 samples: 93.0%
+baby: Accuracy on 200 samples: 90.5%
+books: Accuracy on 200 samples: 87.5%
+camera_photo: Accuracy on 200 samples: 92.0%
+dvd: Accuracy on 200 samples: 89.0%
+electronics: Accuracy on 200 samples: 90.5%
+health_personal_care: Accuracy on 200 samples: 88.5%
+imdb: Accuracy on 200 samples: 85.5%
+kitchen_housewares: Accuracy on 200 samples: 90.5%
+magazines: Accuracy on 200 samples: 93.0%
+music: Accuracy on 200 samples: 83.5%
+software: Accuracy on 200 samples: 91.5%
+sports_outdoors: Accuracy on 200 samples: 91.0%
+toys_games: Accuracy on 200 samples: 87.5%
+video: Accuracy on 200 samples: 85.0%
+Average validation accuracy: 0.8831249999999998
+Evaluating test sets:
+MR: Accuracy on 400 samples: 75.75%
+apparel: Accuracy on 400 samples: 87.0%
+baby: Accuracy on 400 samples: 90.5%
+books: Accuracy on 400 samples: 87.0%
+camera_photo: Accuracy on 400 samples: 90.5%
+dvd: Accuracy on 400 samples: 87.5%
+electronics: Accuracy on 400 samples: 88.5%
+health_personal_care: Accuracy on 400 samples: 89.5%
+imdb: Accuracy on 400 samples: 85.5%
+kitchen_housewares: Accuracy on 400 samples: 89.0%
+magazines: Accuracy on 400 samples: 91.0%
+music: Accuracy on 400 samples: 84.25%
+software: Accuracy on 400 samples: 90.0%
+sports_outdoors: Accuracy on 400 samples: 88.5%
+toys_games: Accuracy on 400 samples: 89.25%
+video: Accuracy on 400 samples: 88.75%
+Average test accuracy: 0.8765625
+Ending epoch 49
+D Training Accuracy: 9.037532216494846%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+99.78571428571429	99.78571428571429	99.78571428571429	99.71428571428571	99.71428571428571	99.57142857142857	99.71428571428571	99.64285714285714	99.71428571428571	99.85714285714286	100.0	99.78571428571429	99.85714285714286	99.71428571428571	99.64285714285714	99.85714285714286
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 73.5%
+apparel: Accuracy on 200 samples: 93.5%
+baby: Accuracy on 200 samples: 90.5%
+books: Accuracy on 200 samples: 87.5%
+camera_photo: Accuracy on 200 samples: 92.5%
+dvd: Accuracy on 200 samples: 86.0%
+electronics: Accuracy on 200 samples: 91.0%
+health_personal_care: Accuracy on 200 samples: 88.5%
+imdb: Accuracy on 200 samples: 87.0%
+kitchen_housewares: Accuracy on 200 samples: 90.5%
+magazines: Accuracy on 200 samples: 92.0%
+music: Accuracy on 200 samples: 85.0%
+software: Accuracy on 200 samples: 92.5%
+sports_outdoors: Accuracy on 200 samples: 88.5%
+toys_games: Accuracy on 200 samples: 86.5%
+video: Accuracy on 200 samples: 85.0%
+Average validation accuracy: 0.88125
+Evaluating test sets:
+MR: Accuracy on 400 samples: 76.25%
+apparel: Accuracy on 400 samples: 87.25%
+baby: Accuracy on 400 samples: 91.5%
+books: Accuracy on 400 samples: 86.5%
+camera_photo: Accuracy on 400 samples: 90.75%
+dvd: Accuracy on 400 samples: 88.0%
+electronics: Accuracy on 400 samples: 88.75%
+health_personal_care: Accuracy on 400 samples: 89.0%
+imdb: Accuracy on 400 samples: 85.75%
+kitchen_housewares: Accuracy on 400 samples: 89.0%
+magazines: Accuracy on 400 samples: 90.75%
+music: Accuracy on 400 samples: 85.5%
+software: Accuracy on 400 samples: 90.5%
+sports_outdoors: Accuracy on 400 samples: 88.25%
+toys_games: Accuracy on 400 samples: 89.5%
+video: Accuracy on 400 samples: 88.75%
+Average test accuracy: 0.8787499999999999
+Ending epoch 50
+D Training Accuracy: 8.994039948453608%
+Training accuracy:
+MR	apparel	baby	books	camera_photo	dvd	electronics	health_personal_care	imdb	kitchen_housewares	magazines	music	software	sports_outdoors	toys_games	video
+99.64285714285714	99.78571428571429	99.71428571428571	99.78571428571429	99.71428571428571	99.71428571428571	99.64285714285714	99.78571428571429	99.64285714285714	99.92857142857143	99.92857142857143	99.85714285714286	99.64285714285714	99.71428571428571	99.71428571428571	99.85714285714286
+Evaluating validation sets:
+MR: Accuracy on 200 samples: 75.0%
+apparel: Accuracy on 200 samples: 90.5%
+baby: Accuracy on 200 samples: 88.5%
+books: Accuracy on 200 samples: 82.5%
+camera_photo: Accuracy on 200 samples: 91.0%
+dvd: Accuracy on 200 samples: 87.0%
+electronics: Accuracy on 200 samples: 88.0%
+health_personal_care: Accuracy on 200 samples: 85.0%
+imdb: Accuracy on 200 samples: 86.0%
+kitchen_housewares: Accuracy on 200 samples: 86.0%
+magazines: Accuracy on 200 samples: 93.5%
+music: Accuracy on 200 samples: 80.0%
+software: Accuracy on 200 samples: 89.0%
+sports_outdoors: Accuracy on 200 samples: 86.5%
+toys_games: Accuracy on 200 samples: 82.0%
+video: Accuracy on 200 samples: 87.5%
+Average validation accuracy: 0.8612500000000002
+Evaluating test sets:
+MR: Accuracy on 400 samples: 77.5%
+apparel: Accuracy on 400 samples: 85.5%
+baby: Accuracy on 400 samples: 87.0%
+books: Accuracy on 400 samples: 83.25%
+camera_photo: Accuracy on 400 samples: 90.5%
+dvd: Accuracy on 400 samples: 84.0%
+electronics: Accuracy on 400 samples: 87.5%
+health_personal_care: Accuracy on 400 samples: 87.0%
+imdb: Accuracy on 400 samples: 81.0%
+kitchen_housewares: Accuracy on 400 samples: 87.0%
+magazines: Accuracy on 400 samples: 92.0%
+music: Accuracy on 400 samples: 82.75%
+software: Accuracy on 400 samples: 89.25%
+sports_outdoors: Accuracy on 400 samples: 86.75%
+toys_games: Accuracy on 400 samples: 86.25%
+video: Accuracy on 400 samples: 87.25%
+Average test accuracy: 0.8590625000000001
+Best average validation accuracy: 0.8875000000000001
+Training done...
+Validation Set Domain Average	0.8875000000000001
+Test Set Domain Average	0.88375
